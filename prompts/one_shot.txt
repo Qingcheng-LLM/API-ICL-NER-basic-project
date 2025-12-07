@@ -1,0 +1,42 @@
+你将执行命名实体识别任务，识别出文本中的两类实体：
+- Chemical
+- Disease
+
+请严格按以下 JSON 格式输出，不要输出除 JSON 以外的任何文字：
+
+{
+  "text": "原文文本（不要修改）",
+  "entities": [
+    {
+        "entity": "实体字符串", 
+        "type": "Chemical 或 Disease"
+    },
+    ...
+  ]
+}
+
+如果没有任何实体，请输出：
+{
+  "text": "...",
+  "entities": []
+}
+
+示例：
+文本：Aspirin is used to treat headache.
+输出：
+{
+  "text": "Aspirin is used to treat headache.",
+  "entities": [
+    {
+        "entity": "Aspirin", 
+        "type": "Chemical"
+    },
+    {
+        "entity": "headache",
+         "type": "Disease"
+    }
+  ]
+}
+
+请识别下面这段文本并用同样 JSON 格式输出：
+{text}

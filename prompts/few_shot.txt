@@ -1,0 +1,87 @@
+你将执行命名实体识别任务，识别出文本中的两类实体：
+- Chemical
+- Disease
+
+请严格按以下 JSON 格式输出，不要输出除 JSON 以外的任何文字：
+
+{
+  "text": "原文文本（不要修改）",
+  "entities": [
+    {
+        "entity": "实体字符串",
+         "type": "Chemical 或 Disease"
+    },
+    ...
+  ]
+}
+
+如果没有任何实体，请输出：
+{
+  "text": "...",
+  "entities": []
+}
+
+下面是三个示例：
+
+示例1：
+文本：Aspirin is used to treat headache.
+输出：
+{
+  "text": "Aspirin is used to treat headache.",
+  "entities": [
+    {
+        "entity": "Aspirin",
+         "type": "Chemical"
+    },
+    {
+        "entity": "headache",
+         "type": "Disease"
+    }
+  ]
+}
+
+示例2：
+文本：CONCLUSIONS : The combination of cisplatin and amifostine in this study resulted in an overall response rate of 16 %.
+输出：
+{
+  "text": "CONCLUSIONS : The combination of cisplatin and amifostine in this study resulted in an overall response rate of 16 % .",
+  "entities": [
+    {
+        "entity": "cisplatin",
+         "type": "Chemical"
+    },
+    {
+        "entity": "amifostine", 
+        "type": "Chemical"
+    }
+  ]
+}
+
+示例3：
+文本：Neither a tumor - protective effect nor reduced toxicity to normal tissues was observed with the addition of amifostine to cisplatin in this trial.
+输出：
+{
+  "text": "Neither a tumor - protective effect nor reduced toxicity to normal tissues was observed with the addition of amifostine to cisplatin in this trial .",
+  "entities": [
+    {
+        "entity": "tumor",
+         "type": "Disease"
+    },
+    {
+        "entity": "toxicity", 
+        "type": "Disease"
+    },
+    {
+        "entity": "amifostine", 
+        "type": "Chemical"
+    },
+    {
+        "entity": "cisplatin", 
+        "type": "Chemical"
+    }
+  ]
+}
+
+请识别下面这段文本并用同样 JSON 格式输出：
+{text}
+

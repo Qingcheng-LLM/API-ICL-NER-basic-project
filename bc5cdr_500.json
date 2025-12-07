@@ -1,0 +1,6900 @@
+[
+  {
+    "text": "Selegiline - induced postural hypotension in Parkinson ' s disease : a longitudinal study on the effects of drug withdrawal .",
+    "entities": [
+      {
+        "entity": "Selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "postural hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "Parkinson ' s disease",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "OBJECTIVES : The United Kingdom Parkinson ' s Disease Research Group ( UKPDRG ) trial found an increased mortality in patients with Parkinson ' s disease ( PD ) randomized to receive 10 mg selegiline per day and L - dopa compared with those taking L - dopa alone .",
+    "entities": [
+      {
+        "entity": "Parkinson ' s Disease",
+        "type": "Disease"
+      },
+      {
+        "entity": "Parkinson ' s disease",
+        "type": "Disease"
+      },
+      {
+        "entity": "PD",
+        "type": "Disease"
+      },
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "L - dopa",
+        "type": "Chemical"
+      },
+      {
+        "entity": "L - dopa",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Recently , we found that therapy with selegiline and L - dopa was associated with selective systolic orthostatic hypotension which was abolished by withdrawal of selegiline .",
+    "entities": [
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "L - dopa",
+        "type": "Chemical"
+      },
+      {
+        "entity": "systolic orthostatic hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This unwanted effect on postural blood pressure was not the result of underlying autonomic failure .",
+    "entities": []
+  },
+  {
+    "text": "The aims of this study were to confirm our previous findings in a separate cohort of patients and to determine the time course of the cardiovascular consequences of stopping selegiline in the expectation that this might shed light on the mechanisms by which the drug causes orthostatic hypotension .",
+    "entities": [
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "orthostatic hypotension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : The cardiovascular responses to standing and head - up tilt were studied repeatedly in PD patients receiving selegiline and as the drug was withdrawn .",
+    "entities": [
+      {
+        "entity": "PD",
+        "type": "Disease"
+      },
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : Head - up tilt caused systolic orthostatic hypotension which was marked in six of 20 PD patients on selegiline , one of whom lost consciousness with unrecordable blood pressures .",
+    "entities": [
+      {
+        "entity": "systolic orthostatic hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "PD",
+        "type": "Disease"
+      },
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A lesser degree of orthostatic hypotension occurred with standing .",
+    "entities": [
+      {
+        "entity": "orthostatic hypotension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Orthostatic hypotension was ameliorated 4 days after withdrawal of selegiline and totally abolished 7 days after discontinuation of the drug .",
+    "entities": [
+      {
+        "entity": "Orthostatic hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Stopping selegiline also significantly reduced the supine systolic and diastolic blood pressures consistent with a previously undescribed supine pressor action .",
+    "entities": [
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "reduced the supine systolic and diastolic blood pressures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION : This study confirms our previous finding that selegiline in combination with L - dopa is associated with selective orthostatic hypotension .",
+    "entities": [
+      {
+        "entity": "selegiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "L - dopa",
+        "type": "Chemical"
+      },
+      {
+        "entity": "orthostatic hypotension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The possibilities that these cardiovascular findings might be the result of non - selective inhibition of monoamine oxidase or of amphetamine and metamphetamine are discussed .",
+    "entities": [
+      {
+        "entity": "amphetamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "metamphetamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Further studies on effects of irrigation solutions on rat bladders .",
+    "entities": []
+  },
+  {
+    "text": "Further studies on the effects of certain irrigating fluids on the rat bladder for 18 hours are reported .",
+    "entities": []
+  },
+  {
+    "text": "The results have shown that the degradation product p - choloroaniline is not a significant factor in chlorhexidine - digluconate associated erosive cystitis .",
+    "entities": [
+      {
+        "entity": "p - choloroaniline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "chlorhexidine - digluconate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cystitis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "A high percentage of kanamycin - colistin and povidone - iodine irrigations were associated with erosive cystitis and suggested a possible complication with human usage .",
+    "entities": [
+      {
+        "entity": "kanamycin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "colistin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "povidone - iodine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cystitis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Picloxydine irrigations appeared to have a lower incidence of erosive cystitis but further studies would have to be performed before it could be recommended for use in urological procedures .",
+    "entities": [
+      {
+        "entity": "Picloxydine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cystitis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Effects of tetrandrine and fangchinoline on experimental thrombosis in mice and human platelet aggregation .",
+    "entities": [
+      {
+        "entity": "tetrandrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fangchinoline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "thrombosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "platelet aggregation",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Tetrandrine ( TET ) and fangchinoline ( FAN ) are two naturally occurring analogues with a bisbenzylisoquinoline structure .",
+    "entities": [
+      {
+        "entity": "Tetrandrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fangchinoline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bisbenzylisoquinoline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The present study was undertaken to investigate the effects of TET and FAN on the experimental thrombosis induced by collagen plus epinephrine ( EP ) in mice , and platelet aggregation and blood coagulation in vitro .",
+    "entities": [
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      },
+      {
+        "entity": "thrombosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "epinephrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "EP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "platelet aggregation",
+        "type": "Disease"
+      },
+      {
+        "entity": "blood coagulation",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In the in vivo study , the administration ( 50 mg / kg , i . p . ) of TET and FAN in mice showed the inhibition of thrombosis by 55 % and 35 % , respectively , while acetylsalicylic acid ( ASA , 50 mg / kg , i . p . ) , a positive control , showed only 30 % inhibition .",
+    "entities": [
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      },
+      {
+        "entity": "thrombosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "acetylsalicylic acid",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ASA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In the vitro human platelet aggregations induced by the agonists used in tests , TET and FAN showed the inhibitions dose dependently .",
+    "entities": [
+      {
+        "entity": "platelet aggregations",
+        "type": "Disease"
+      },
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In addition , neither TET nor FAN showed any anticoagulation activities in the measurement of the activated partial thromboplastin time ( APTT ) , prothrombin time ( PT ) and thrombin time ( TT ) using human - citrated plasma .",
+    "entities": [
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These results suggest that antithrombosis of TET and FAN in mice may be mainly related to the antiplatelet aggregation activities .",
+    "entities": [
+      {
+        "entity": "TET",
+        "type": "Chemical"
+      },
+      {
+        "entity": "FAN",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Angioedema due to ACE inhibitors : common and inadequately diagnosed .",
+    "entities": [
+      {
+        "entity": "Angioedema",
+        "type": "Disease"
+      },
+      {
+        "entity": "ACE inhibitors",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The estimated incidence of angioedema during angiotensin - converting enzyme ( ACE ) inhibitor treatment is between 1 and 7 per thousand patients .",
+    "entities": [
+      {
+        "entity": "angioedema",
+        "type": "Disease"
+      },
+      {
+        "entity": "angiotensin - converting enzyme ( ACE ) inhibitor",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This potentially serious adverse effect is often preceded by minor manifestations that may serve as a warning .",
+    "entities": []
+  },
+  {
+    "text": "Cocaine - induced mood disorder : prevalence rates and psychiatric symptoms in an outpatient cocaine - dependent sample .",
+    "entities": [
+      {
+        "entity": "Cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "mood disorder",
+        "type": "Disease"
+      },
+      {
+        "entity": "psychiatric",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This paper attempts to examine and compare prevalence rates and symptom patterns of DSM substance - induced and other mood disorders .",
+    "entities": [
+      {
+        "entity": "mood disorders",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "243 cocaine - dependent outpatients with cocaine - induced mood disorder ( CIMD ) , other mood disorders , or no mood disorder were compared on measures of psychiatric symptoms .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "mood disorder",
+        "type": "Disease"
+      },
+      {
+        "entity": "CIMD",
+        "type": "Disease"
+      },
+      {
+        "entity": "mood disorders",
+        "type": "Disease"
+      },
+      {
+        "entity": "mood disorder",
+        "type": "Disease"
+      },
+      {
+        "entity": "psychiatric",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The prevalence rate for CIMD was 12 % at baseline .",
+    "entities": [
+      {
+        "entity": "CIMD",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Introduction of the DSM - IV diagnosis of CIMD did not substantially affect rates of the other depressive disorders .",
+    "entities": [
+      {
+        "entity": "CIMD",
+        "type": "Disease"
+      },
+      {
+        "entity": "depressive disorders",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Patients with CIMD had symptom severity levels between those of patients with and without a mood disorder .",
+    "entities": [
+      {
+        "entity": "CIMD",
+        "type": "Disease"
+      },
+      {
+        "entity": "mood disorder",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These findings suggest some validity for the new DSM - IV diagnosis of CIMD , but also suggest that it requires further specification and replication .",
+    "entities": [
+      {
+        "entity": "CIMD",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Effect of fucoidan treatment on collagenase - induced intracerebral hemorrhage in rats .",
+    "entities": [
+      {
+        "entity": "fucoidan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "intracerebral hemorrhage",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Inflammatory cells are postulated to mediate some of the brain damage following ischemic stroke .",
+    "entities": [
+      {
+        "entity": "brain damage",
+        "type": "Disease"
+      },
+      {
+        "entity": "ischemic stroke",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Intracerebral hemorrhage is associated with more inflammation than ischemic stroke .",
+    "entities": [
+      {
+        "entity": "Intracerebral hemorrhage",
+        "type": "Disease"
+      },
+      {
+        "entity": "inflammation",
+        "type": "Disease"
+      },
+      {
+        "entity": "ischemic stroke",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We tested the sulfated polysaccharide fucoidan , which has been reported to reduce inflammatory brain damage , in a rat model of intracerebral hemorrhage induced by injection of bacterial collagenase into the caudate nucleus .",
+    "entities": [
+      {
+        "entity": "fucoidan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "brain damage",
+        "type": "Disease"
+      },
+      {
+        "entity": "intracerebral hemorrhage",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Rats were treated with seven day intravenous infusion of fucoidan ( 30 micrograms h - 1 ) or vehicle .",
+    "entities": [
+      {
+        "entity": "fucoidan",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The hematoma was assessed in vivo by magnetic resonance imaging .",
+    "entities": [
+      {
+        "entity": "hematoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Motor behavior , passive avoidance , and skilled forelimb function were tested repeatedly for six weeks .",
+    "entities": []
+  },
+  {
+    "text": "Fucoidan - treated rats exhibited evidence of impaired blood clotting and hemodilution , had larger hematomas , and tended to have less inflammation in the vicinity of the hematoma after three days .",
+    "entities": [
+      {
+        "entity": "Fucoidan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "impaired blood clotting",
+        "type": "Disease"
+      },
+      {
+        "entity": "hemodilution",
+        "type": "Disease"
+      },
+      {
+        "entity": "hematomas",
+        "type": "Disease"
+      },
+      {
+        "entity": "inflammation",
+        "type": "Disease"
+      },
+      {
+        "entity": "hematoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "They showed significantly more rapid improvement of motor function in the first week following hemorrhage and better memory retention in the passive avoidance test .",
+    "entities": [
+      {
+        "entity": "hemorrhage",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Acute white matter edema and eventual neuronal loss in the striatum adjacent to the hematoma did not differ between the two groups .",
+    "entities": [
+      {
+        "entity": "white matter edema",
+        "type": "Disease"
+      },
+      {
+        "entity": "neuronal loss",
+        "type": "Disease"
+      },
+      {
+        "entity": "hematoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Investigation of more specific anti - inflammatory agents and hemodiluting agents are warranted in intracerebral hemorrhage .",
+    "entities": [
+      {
+        "entity": "intracerebral hemorrhage",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Recurarization in the recovery room .",
+    "entities": []
+  },
+  {
+    "text": "A case of recurarization in the recovery room is reported .",
+    "entities": []
+  },
+  {
+    "text": "Accumulation of atracurium in the intravenous line led to recurarization after flushing the line in the recovery room .",
+    "entities": [
+      {
+        "entity": "atracurium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A respiratory arrest with severe desaturation and bradycardia occurred .",
+    "entities": [
+      {
+        "entity": "respiratory arrest",
+        "type": "Disease"
+      },
+      {
+        "entity": "desaturation",
+        "type": "Disease"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Circumstances leading to this event and the mechanisms enabling a neuromuscular blockade to occur , following the administration of a small dose of relaxant , are discussed .",
+    "entities": [
+      {
+        "entity": "neuromuscular blockade",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The haemodynamic effects of propofol in combination with ephedrine in elderly patients ( ASA groups 3 and 4 ) .",
+    "entities": [
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The marked vasodilator and negative inotropic effects of propofol are disadvantages in frail elderly patients .",
+    "entities": [
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We investigated the safety and efficacy of adding different doses of ephedrine to propofol in order to obtund the hypotensive response .",
+    "entities": [
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypotensive",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The haemodynamic effects of adding 15 , 20 or 25 mg of ephedrine to 200 mg of propofol were compared to control in 40 ASA 3 / 4 patients over 60 years presenting for genito - urinary surgery .",
+    "entities": [
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The addition of ephedrine to propofol appears to be an effective method of obtunding the hypotensive response to propofol at all doses used in this study .",
+    "entities": [
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypotensive",
+        "type": "Disease"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "However , marked tachycardia associated with the use of ephedrine in combination with propofol occurred in the majority of patients , occasionally reaching high levels in individual patients .",
+    "entities": [
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Due to the risk of this tachycardia inducing myocardial ischemia , we would not recommend the use in elderly patients of any of the ephedrine / propofol / mixtures studied .",
+    "entities": [
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "myocardial ischemia",
+        "type": "Disease"
+      },
+      {
+        "entity": "ephedrine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "propofol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Gemcitabine plus vinorelbine in nonsmall cell lung carcinoma patients age 70 years or older or patients who cannot receive cisplatin .",
+    "entities": [
+      {
+        "entity": "Gemcitabine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vinorelbine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nonsmall cell lung carcinoma",
+        "type": "Disease"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Oncopaz Cooperative Group .",
+    "entities": []
+  },
+  {
+    "text": "BACKGROUND : Although the prevalence of nonsmall cell lung carcinoma ( NSCLC ) is high among elderly patients , few data are available regarding the efficacy and toxicity of chemotherapy in this group of patients .",
+    "entities": [
+      {
+        "entity": "nonsmall cell lung carcinoma",
+        "type": "Disease"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      },
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Recent reports indicate that single agent therapy with vinorelbine ( VNB ) or gemcitabine ( GEM ) may obtain a response rate of 20 - 30 % in elderly patients , with acceptable toxicity and improvement in symptoms and quality of life .",
+    "entities": [
+      {
+        "entity": "vinorelbine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "VNB",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GEM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In the current study the efficacy and toxicity of the combination of GEM and VNB in elderly patients with advanced NSCLC or those with some contraindication to receiving cisplatin were assessed .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "GEM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "VNB",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : Forty - nine patients with advanced NSCLC were included , 38 of whom were age > / = 70 years and 11 were age < 70 years but who had some contraindication to receiving cisplatin .",
+    "entities": [
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "All patients were evaluable for response and toxicity .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Treatment was comprised of VNB , 25 mg / m ( 2 ) , plus GEM , 1000 mg / m ( 2 ) , both on Days 1 , 8 , and 15 every 28 days .",
+    "entities": [
+      {
+        "entity": "VNB",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GEM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Patients received a minimum of three courses unless progressive disease was detected .",
+    "entities": []
+  },
+  {
+    "text": "RESULTS : One hundred sixty - five courses were administered , with a median of 3 .",
+    "entities": []
+  },
+  {
+    "text": "6 courses per patient .",
+    "entities": []
+  },
+  {
+    "text": "The overall response rate was 26 % ( 95 % confidence interval , 15 - 41 % ) .",
+    "entities": []
+  },
+  {
+    "text": "Two patients attained a complete response ( 4 % ) and 11 patients ( 22 % ) achieved a partial response .",
+    "entities": []
+  },
+  {
+    "text": "Eastern Cooperative Oncology Group performance status improved in 35 % of those patients with an initial value > 0 , whereas relief of at least 1 symptom without worsening of other symptoms was noted in 27 patients ( 55 % ) .",
+    "entities": []
+  },
+  {
+    "text": "The median time to progression was 16 weeks and the 1 - year survival rate was 33 % .",
+    "entities": []
+  },
+  {
+    "text": "Toxicity was mild .",
+    "entities": [
+      {
+        "entity": "Toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Six patients ( 12 % ) had World Health Organization Grade 3 - 4 neutropenia , 2 patients ( 4 % ) had Grade 3 - 4 thrombocytopenia , and 2 patients ( 4 % ) had Grade 3 neurotoxicity .",
+    "entities": [
+      {
+        "entity": "neutropenia",
+        "type": "Disease"
+      },
+      {
+        "entity": "thrombocytopenia",
+        "type": "Disease"
+      },
+      {
+        "entity": "neurotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Three patients with severe neutropenia ( 6 % ) died of sepsis .",
+    "entities": [
+      {
+        "entity": "neutropenia",
+        "type": "Disease"
+      },
+      {
+        "entity": "sepsis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The median age of those patients developing Grade 3 - 4 neutropenia was significantly higher than that of the remaining patients ( 75 years vs . 72 years ; P = 0 . 047 ) .",
+    "entities": [
+      {
+        "entity": "neutropenia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSIONS : The combination of GEM and VNB is moderately active and well tolerated except in patients age > / = 75 years .",
+    "entities": [
+      {
+        "entity": "GEM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "VNB",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This age group had an increased risk of myelosuppression .",
+    "entities": [
+      {
+        "entity": "myelosuppression",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Therefore the prophylactic use of granulocyte - colony stimulating factor should be considered with this treatment .",
+    "entities": []
+  },
+  {
+    "text": "New chemotherapy combinations with higher activity and lower toxicity are needed for elderly patients with advanced NSCLC .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "A selective dopamine D4 receptor antagonist , NRA0160 : a preclinical neuropharmacological profile .",
+    "entities": [
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 , 5 - [ 2 - ( 4 - ( 3 - fluorobenzylidene ) piperidin - 1 - yl ) ethyl ] - 4 - ( 4 - fluorophenyl ) thiazole - 2 - carboxamide , has a high affinity for human cloned dopamine D4 . 2 , D4 . 4 and D4 . 7 receptors , with Ki values of 0 . 5 , 0 . 9 and 2 . 7 nM , respectively .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "5 - [ 2 - ( 4 - ( 3 - fluorobenzylidene ) piperidin - 1 - yl ) ethyl ] - 4 - ( 4 - fluorophenyl ) thiazole - 2 - carboxamide",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 is over 20 , 000fold more potent at the dopamine D4 . 2 receptor compared with the human cloned dopamine D2L receptor .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 has negligible affinity for the human cloned dopamine D3 receptor ( Ki = 39 nM ) , rat serotonin ( 5 - HT ) 2A receptors ( Ki = 180 nM ) and rat alpha1 adrenoceptor ( Ki = 237 nM ) .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "serotonin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "5 - HT",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 and clozapine antagonized locomotor hyperactivity induced by methamphetamine ( MAP ) in mice .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "clozapine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperactivity",
+        "type": "Disease"
+      },
+      {
+        "entity": "methamphetamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "MAP",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 and clozapine antagonized MAP - induced stereotyped behavior in mice , although their effects did not exceed 50 % inhibition , even at the highest dose given .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "clozapine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "MAP",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 and clozapine significantly induced catalepsy in rats , although their effects did not exceed 50 % induction even at the highest dose given .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "clozapine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "catalepsy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 and clozapine significantly reversed the disruption of prepulse inhibition ( PPI ) in rats produced by apomorphine .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "clozapine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "NRA0160 and clozapine significantly shortened the phencyclidine ( PCP ) - induced prolonged swimming latency in rats in a water maze task .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      },
+      {
+        "entity": "clozapine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "phencyclidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "PCP",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These findings suggest that NRA0160 may have unique antipsychotic activities without the liability of motor side effects typical of classical antipsychotics .",
+    "entities": [
+      {
+        "entity": "NRA0160",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Warfarin - induced artery calcification is accelerated by growth and vitamin D .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The present studies demonstrate that growth and vitamin D treatment enhance the extent of artery calcification in rats given sufficient doses of Warfarin to inhibit gamma - carboxylation of matrix Gla protein , a calcification inhibitor known to be expressed by smooth muscle cells and macrophages in the artery wall .",
+    "entities": [
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The first series of experiments examined the influence of age and growth status on artery calcification in Warfarin - treated rats .",
+    "entities": [
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Treatment for 2 weeks with Warfarin caused massive focal calcification of the artery media in 20 - day - old rats and less extensive focal calcification in 42 - day - old rats .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification of the artery",
+        "type": "Disease"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In contrast , no artery calcification could be detected in 10 - month - old adult rats even after 4 weeks of Warfarin treatment .",
+    "entities": [
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "To directly examine the importance of growth to Warfarin - induced artery calcification in animals of the same age , 20 - day - old rats were fed for 2 weeks either an ad libitum diet or a 6 - g / d restricted diet that maintains weight but prevents growth .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Concurrent treatment of both dietary groups with Warfarin produced massive focal calcification of the artery media in the ad libitum - fed rats but no detectable artery calcification in the restricted - diet , growth - inhibited group .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification of the artery",
+        "type": "Disease"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Although the explanation for the association between artery calcification and growth status cannot be determined from the present study , there was a relationship between higher serum phosphate and susceptibility to artery calcification , with 30 % higher levels of serum phosphate in young , ad libitum - fed rats compared with either of the groups that was resistant to Warfarin - induced artery calcification , ie , the 10 - month - old rats and the restricted - diet , growth - inhibited young rats .",
+    "entities": [
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "phosphate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "phosphate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This observation suggests that increased susceptibility to Warfarin - induced artery calcification could be related to higher serum phosphate levels .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "phosphate",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The second set of experiments examined the possible synergy between vitamin D and Warfarin in artery calcification .",
+    "entities": [
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "High doses of vitamin D are known to cause calcification of the artery media in as little as 3 to 4 days .",
+    "entities": [
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification of the artery",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "High doses of the vitamin K antagonist Warfarin are also known to cause calcification of the artery media , but at treatment times of 2 weeks or longer yet not at 1 week .",
+    "entities": [
+      {
+        "entity": "vitamin K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification of the artery",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In the current study , we investigated the synergy between these 2 treatments and found that concurrent Warfarin administration dramatically increased the extent of calcification in the media of vitamin D - treated rats at 3 and 4 days .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "There was a close parallel between the effect of vitamin D dose on artery calcification and the effect of vitamin D dose on the elevation of serum calcium , which suggests that vitamin D may induce artery calcification through its effect on serum calcium .",
+    "entities": [
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "calcium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Because Warfarin treatment had no effect on the elevation in serum calcium produced by vitamin D , the synergy between Warfarin and vitamin D is probably best explained by the hypothesis that Warfarin inhibits the activity of matrix Gla protein as a calcification inhibitor .",
+    "entities": [
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "High levels of matrix Gla protein are found at sites of artery calcification in rats treated with vitamin D plus Warfarin , and chemical analysis showed that the protein that accumulated was indeed not gamma - carboxylated .",
+    "entities": [
+      {
+        "entity": "artery calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "vitamin D",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Warfarin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gamma - carboxylated",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These observations indicate that although the gamma - carboxyglutamate residues of matrix Gla protein are apparently required for its function as a calcification inhibitor , they are not required for its accumulation at calcification sites .",
+    "entities": [
+      {
+        "entity": "gamma - carboxyglutamate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      },
+      {
+        "entity": "calcification",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Test conditions influence the response to a drug challenge in rodents .",
+    "entities": []
+  },
+  {
+    "text": "These studies were conducted to examine the differential response to a drug challenge under varied experimental test conditions routinely employed to study drug - induced behavioral and neurophysiological responses in rodents .",
+    "entities": []
+  },
+  {
+    "text": "Apomorphine , a nonselective dopamine agonist , was selected due to its biphasic behavioral effects , its ability to induce hypothermia , and to produce distinct changes to dopamine turnover in the rodent brain .",
+    "entities": [
+      {
+        "entity": "Apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine agonist",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypothermia",
+        "type": "Disease"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "From such experiments there is evidence that characterization and detection of apomorphine - induced activity in rodents critically depends upon the test conditions employed .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In rats , detection of apomorphine - induced hyperactivity was facilitated by a period of acclimatization to the test conditions .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperactivity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Moreover , test conditions can impact upon other physiological responses to apomorphine such as drug - induced hypothermia .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypothermia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In mice , apomorphine produced qualitatively different responses under novel conditions when compared to those behaviors elicited in the home test cage .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Drug - induced gross activity counts were increased in the novel exploratory box only , while measures of stereotypic behavior were similar in both .",
+    "entities": []
+  },
+  {
+    "text": "By contrast , apomorphine - induced locomotion was more prominent in the novel exploratory box .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Dopamine turnover ratios ( DOPAC : DA and HVA : DA ) were found to be lower in those animals exposed to the exploratory box when compared to their home cage counterparts .",
+    "entities": [
+      {
+        "entity": "Dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOPAC",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "HVA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "However , apomorphine - induced reductions in striatal dopamine turnover were detected in both novel and home cage environments .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The implications of these findings are discussed with particular emphasis upon conducting psychopharmacological challenge tests in rodents .",
+    "entities": []
+  },
+  {
+    "text": "Hemolysis of human erythrocytes induced by tamoxifen is related to disruption of membrane structure .",
+    "entities": [
+      {
+        "entity": "Hemolysis",
+        "type": "Disease"
+      },
+      {
+        "entity": "tamoxifen",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Tamoxifen ( TAM ) , the antiestrogenic drug most widely prescribed in the chemotherapy of breast cancer , induces changes in normal discoid shape of erythrocytes and hemolytic anemia .",
+    "entities": [
+      {
+        "entity": "Tamoxifen",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "breast cancer",
+        "type": "Disease"
+      },
+      {
+        "entity": "hemolytic anemia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This work evaluates the effects of TAM on isolated human erythrocytes , attempting to identify the underlying mechanisms on TAM - induced hemolytic anemia and the involvement of biomembranes in its cytostatic action mechanisms .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolytic anemia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "TAM induces hemolysis of erythrocytes as a function of concentration .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The extension of hemolysis is variable with erythrocyte samples , but 12 . 5 microM TAM induces total hemolysis of all tested suspensions .",
+    "entities": [
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Despite inducing extensive erythrocyte lysis , TAM does not shift the osmotic fragility curves of erythrocytes .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The hemolytic effect of TAM is prevented by low concentrations of alpha - tocopherol ( alpha - T ) and alpha - tocopherol acetate ( alpha - TAc ) ( inactivated functional hydroxyl ) indicating that TAM - induced hemolysis is not related to oxidative membrane damage .",
+    "entities": [
+      {
+        "entity": "hemolytic",
+        "type": "Disease"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alpha - tocopherol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alpha - T",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alpha - tocopherol acetate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alpha - TAc",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hydroxyl",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This was further evidenced by absence of oxygen consumption and hemoglobin oxidation both determined in parallel with TAM - induced hemolysis .",
+    "entities": [
+      {
+        "entity": "oxygen",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , it was observed that TAM inhibits the peroxidation of human erythrocytes induced by AAPH , thus ruling out TAM - induced cell oxidative stress .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AAPH",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Hemolysis caused by TAM was not preceded by the leakage of K ( + ) from the cells , also excluding a colloid - osmotic type mechanism of hemolysis , according to the effects on osmotic fragility curves .",
+    "entities": [
+      {
+        "entity": "Hemolysis",
+        "type": "Disease"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "However , TAM induces release of peripheral proteins of membrane - cytoskeleton and cytosol proteins essentially bound to band 3 .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Either alpha - T or alpha - TAc increases membrane packing and prevents TAM partition into model membranes .",
+    "entities": [
+      {
+        "entity": "alpha - T",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alpha - TAc",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These effects suggest that the protection from hemolysis by tocopherols is related to a decreased TAM incorporation in condensed membranes and the structural damage of the erythrocyte membrane is consequently avoided .",
+    "entities": [
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      },
+      {
+        "entity": "tocopherols",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Therefore , TAM - induced hemolysis results from a structural perturbation of red cell membrane , leading to changes in the framework of the erythrocyte membrane and its cytoskeleton caused by its high partition in the membrane .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These defects explain the abnormal erythrocyte shape and decreased mechanical stability promoted by TAM , resulting in hemolytic anemia .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hemolytic anemia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Additionally , since membrane leakage is a final stage of cytotoxicity , the disruption of the structural characteristics of biomembranes by TAM may contribute to the multiple mechanisms of its anticancer action .",
+    "entities": [
+      {
+        "entity": "TAM",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Changes of sodium and ATP affinities of the cardiac ( Na , K ) - ATPase during and after nitric oxide deficient hypertension .",
+    "entities": [
+      {
+        "entity": "sodium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ATP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nitric oxide",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In the cardiovascular system , NO is involved in the regulation of a variety of functions .",
+    "entities": [
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Inhibition of NO synthesis induces sustained hypertension .",
+    "entities": [
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In several models of hypertension , elevation of intracellular sodium level was documented in cardiac tissue .",
+    "entities": [
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "sodium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "To assess the molecular basis of disturbances in transmembraneous transport of Na + , we studied the response of cardiac ( Na , K ) - ATPase to NO - deficient hypertension induced in rats by NO - synthase inhibition with 40 mg / kg / day N ( G ) - nitro - L - arginine methyl ester ( L - NAME ) for 4 four weeks .",
+    "entities": [
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      },
+      {
+        "entity": "N ( G ) - nitro - L - arginine methyl ester",
+        "type": "Chemical"
+      },
+      {
+        "entity": "L - NAME",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "After 4 - week administration of L - NAME , the systolic blood pressure ( SBP ) increased by 36 % .",
+    "entities": [
+      {
+        "entity": "L - NAME",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Two weeks after terminating the treatment , the SBP recovered to control value .",
+    "entities": []
+  },
+  {
+    "text": "When activating the ( Na , K ) - ATPase with its substrate ATP , no changes in Km and Vmax values were observed in NO - deficient rats .",
+    "entities": [
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ATP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "During activation with Na + , the Vmax remained unchanged , however the K ( Na ) increased by 50 % , indicating a profound decrease in the affinity of the Na + - binding site in NO - deficient rats .",
+    "entities": [
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "After recovery from hypertension , the activity of ( Na , K ) - ATPase increased , due to higher affinity of the ATP - binding site , as revealed from the lowered Km value for ATP .",
+    "entities": [
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ATP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ATP",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The K ( Na ) value for Na + returned to control value .",
+    "entities": [
+      {
+        "entity": "K",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Inhibition of NO - synthase induced a reversible hypertension accompanied by depressed Na + - extrusion from cardiac cells as a consequence of deteriorated Na + - binding properties of the ( Na , K ) - ATPase .",
+    "entities": [
+      {
+        "entity": "NO",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "depressed",
+        "type": "Disease"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "After recovery of blood pressure to control values , the extrusion of Na + from cardiac cells was normalized , as revealed by restoration of the ( Na , K ) - ATPase activity .",
+    "entities": [
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Na",
+        "type": "Chemical"
+      },
+      {
+        "entity": "K",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Effects of long - term pretreatment with isoproterenol on bromocriptine - induced tachycardia in conscious rats .",
+    "entities": [
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "It has been shown that bromocriptine - induced tachycardia , which persisted after adrenalectomy , is ( i ) mediated by central dopamine D2 receptor activation and ( ii ) reduced by 5 - day isoproterenol pretreatment , supporting therefore the hypothesis that this effect is dependent on sympathetic outflow to the heart .",
+    "entities": [
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This study was conducted to examine whether prolonged pretreatment with isoproterenol could abolish bromocriptine - induced tachycardia in conscious rats .",
+    "entities": [
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Isoproterenol pretreatment for 15 days caused cardiac hypertrophy without affecting baseline blood pressure and heart rate .",
+    "entities": [
+      {
+        "entity": "Isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiac hypertrophy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In control rats , intravenous bromocriptine ( 150 microg / kg ) induced significant hypotension and tachycardia .",
+    "entities": [
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Bromocriptine - induced hypotension was unaffected by isoproterenol pretreatment , while tachycardia was reversed to significant bradycardia , an effect that was partly reduced by i . v . domperidone ( 0 . 5 mg / kg ) .",
+    "entities": [
+      {
+        "entity": "Bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "domperidone",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Neither cardiac vagal nor sympathetic tone was altered by isoproterenol pretreatment .",
+    "entities": [
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In isolated perfused heart preparations from isoproterenol - pretreated rats , the isoproterenol - induced maximal increase in left ventricular systolic pressure was significantly reduced , compared with saline - pretreated rats ( the EC50 of the isoproterenol - induced increase in left ventricular systolic pressure was enhanced approximately 22 - fold ) .",
+    "entities": [
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These results show that 15 - day isoproterenol pretreatment not only abolished but reversed bromocriptine - induced tachycardia to bradycardia , an effect that is mainly related to further cardiac beta - adrenoceptor desensitization rather than to impairment of autonomic regulation of the heart .",
+    "entities": [
+      {
+        "entity": "isoproterenol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "They suggest that , in normal conscious rats , the central tachycardia of bromocriptine appears to predominate and to mask the bradycardia of this agonist at peripheral dopamine D2 receptors .",
+    "entities": [
+      {
+        "entity": "tachycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "bromocriptine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A developmental analysis of clonidine ' s effects on cardiac rate and ultrasound production in infant rats .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Under controlled conditions , infant rats emit ultrasonic vocalizations during extreme cold exposure and after administration of the alpha ( 2 ) adrenoceptor agonist , clonidine .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Previous investigations have determined that , in response to clonidine , ultrasound production increases through the 2nd - week postpartum and decreases thereafter .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Given that sympathetic neural dominance exhibits a similar developmental pattern , and given that clonidine induces sympathetic withdrawal and bradycardia , we hypothesized that clonidine ' s developmental effects on cardiac rate and ultrasound production would mirror each other .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      },
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Therefore , in the present experiment , the effects of clonidine administration ( 0 . 5 mg / kg ) on cardiac rate and ultrasound production were examined in 2 - , 8 - , 15 - , and 20 - day - old rats .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Age - related changes in ultrasound production corresponded with changes in cardiovascular variables , including baseline cardiac rate and clonidine - induced bradycardia .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This experiment is discussed with regard to the hypothesis that ultrasound production is the acoustic by - product of a physiological maneuver that compensates for clonidine ' s detrimental effects on cardiovascular function .",
+    "entities": [
+      {
+        "entity": "clonidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Recurrent use of newer oral contraceptives and the risk of venous thromboembolism .",
+    "entities": [
+      {
+        "entity": "oral contraceptives",
+        "type": "Chemical"
+      },
+      {
+        "entity": "venous thromboembolism",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The epidemiological studies that assessed the risk of venous thromboembolism ( VTE ) associated with newer oral contraceptives ( OC ) did not distinguish between patterns of OC use , namely first - time users , repeaters and switchers .",
+    "entities": [
+      {
+        "entity": "venous thromboembolism",
+        "type": "Disease"
+      },
+      {
+        "entity": "VTE",
+        "type": "Disease"
+      },
+      {
+        "entity": "oral contraceptives",
+        "type": "Chemical"
+      },
+      {
+        "entity": "OC",
+        "type": "Chemical"
+      },
+      {
+        "entity": "OC",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Data from a Transnational case - control study were used to assess the risk of VTE for the latter patterns of use , while accounting for duration of use .",
+    "entities": [
+      {
+        "entity": "VTE",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Over the period 1993 - 1996 , 551 cases of VTE were identified in Germany and the UK along with 2066 controls .",
+    "entities": [
+      {
+        "entity": "VTE",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Totals of 128 cases and 650 controls were analysed for repeat use and 135 cases and 622 controls for switching patterns .",
+    "entities": []
+  },
+  {
+    "text": "The adjusted rate ratio of VTE for repeat users of third generation OC was 0 . 6 ( 95 % CI : 0 . 3 - 1 . 2 ) relative to repeat users of second generation pills , whereas it was 1 . 3 ( 95 % CI : 0 . 7 - 2 . 4 ) for switchers from second to third generation pills relative to switchers from third to second generation pills .",
+    "entities": [
+      {
+        "entity": "VTE",
+        "type": "Disease"
+      },
+      {
+        "entity": "OC",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We conclude that second and third generation agents are associated with equivalent risks of VTE when the same agent is used repeatedly after interruption periods or when users are switched between the two generations of pills .",
+    "entities": [
+      {
+        "entity": "VTE",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These analyses suggest that the higher risk observed for the newer OC in other studies may be the result of inadequate comparisons of pill users with different patterns of pill use .",
+    "entities": [
+      {
+        "entity": "OC",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Differential effects of systemically administered ketamine and lidocaine on dynamic and static hyperalgesia induced by intradermal capsaicin in humans .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lidocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      },
+      {
+        "entity": "capsaicin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We have examined the effect of systemic administration of ketamine and lidocaine on brush - evoked ( dynamic ) pain and punctate - evoked ( static ) hyperalgesia induced by capsaicin .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lidocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      },
+      {
+        "entity": "capsaicin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In a randomized , double - blind , placebo - controlled , crossover study , we studied 12 volunteers in three experiments .",
+    "entities": []
+  },
+  {
+    "text": "Capsaicin 100 micrograms was injected intradermally on the volar forearm followed by an i . v . infusion of ketamine ( bolus 0 . 1 mg kg - 1 over 10 min followed by infusion of 7 micrograms kg - 1 min - 1 ) , lidocaine 5 mg kg - 1 or saline for 50 min .",
+    "entities": [
+      {
+        "entity": "Capsaicin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lidocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Infusion started 15 min after injection of capsaicin .",
+    "entities": [
+      {
+        "entity": "capsaicin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The following were measured : spontaneous pain , pain evoked by punctate and brush stimuli ( VAS ) , and areas of brush - evoked and punctate - evoked hyperalgesia .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine reduced both the area of brush - evoked and punctate - evoked hyperalgesia significantly and it tended to reduce brush - evoked pain .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Lidocaine reduced the area of punctate - evoked hyperalgesia significantly .",
+    "entities": [
+      {
+        "entity": "Lidocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "It tended to reduce VAS scores of spontaneous pain but had no effect on evoked pain .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The differential effects of ketamine and lidocaine on static and dynamic hyperalgesia suggest that the two types of hyperalgesia are mediated by separate mechanisms and have a distinct pharmacology .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lidocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      },
+      {
+        "entity": "hyperalgesia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Development of apomorphine - induced aggressive behavior : comparison of adult male and female Wistar rats .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aggressive behavior",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The development of apomorphine - induced ( 1 . 0 mg / kg s . c . once daily ) aggressive behavior of adult male and female Wistar rats obtained from the same breeder was studied in two consecutive sets .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aggressive behavior",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In male animals , repeated apomorphine treatment induced a gradual development of aggressive behavior as evidenced by the increased intensity of aggressiveness and shortened latency before the first attack toward the opponent .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aggressive behavior",
+        "type": "Disease"
+      },
+      {
+        "entity": "aggressiveness",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In female rats , only a weak tendency toward aggressiveness was found .",
+    "entities": [
+      {
+        "entity": "aggressiveness",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In conclusion , the present study demonstrates gender differences in the development of the apomorphine - induced aggressive behavior and indicates that the female rats do not fill the validation criteria for use in this method .",
+    "entities": [
+      {
+        "entity": "apomorphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aggressive behavior",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Intracranial aneurysms and cocaine abuse : analysis of prognostic indicators .",
+    "entities": [
+      {
+        "entity": "Intracranial aneurysms",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine abuse",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "OBJECTIVE : The outcome of subarachnoid hemorrhage associated with cocaine abuse is reportedly poor .",
+    "entities": [
+      {
+        "entity": "subarachnoid hemorrhage",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine abuse",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "However , no study in the literature has reported the use of a statistical model to analyze the variables that influence outcome .",
+    "entities": []
+  },
+  {
+    "text": "METHODS : A review of admissions during a 6 - year period revealed 14 patients with cocaine - related aneurysms .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aneurysms",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This group was compared with a control group of 135 patients with ruptured aneurysms and no history of cocaine abuse .",
+    "entities": [
+      {
+        "entity": "ruptured aneurysms",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine abuse",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Age at presentation , time of ictus after intoxication , Hunt and Hess grade of subarachnoid hemorrhage , size of the aneurysm , location of the aneurysm , and the Glasgow Outcome Scale score were assessed and compared .",
+    "entities": [
+      {
+        "entity": "subarachnoid hemorrhage",
+        "type": "Disease"
+      },
+      {
+        "entity": "aneurysm",
+        "type": "Disease"
+      },
+      {
+        "entity": "aneurysm",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : The patients in the study group were significantly younger than the patients in the control group ( P < 0 . 002 ) .",
+    "entities": []
+  },
+  {
+    "text": "In patients in the study group , all aneurysms were located in the anterior circulation .",
+    "entities": [
+      {
+        "entity": "aneurysms",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The majority of these aneurysms were smaller than those of the control group ( 8 + / - 6 . 08 mm versus 11 + / - 5 . 4 mm ; P = 0 . 05 ) .",
+    "entities": [
+      {
+        "entity": "aneurysms",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The differences in mortality and morbidity between the two groups were not significant .",
+    "entities": []
+  },
+  {
+    "text": "Hunt and Hess grade ( P < 0 . 005 ) and age ( P < 0 . 007 ) were significant predictors of outcome for the patients with cocaine - related aneurysms .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aneurysms",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION : Cocaine use predisposed aneurysmal rupture at a significantly earlier age and in much smaller aneurysms .",
+    "entities": [
+      {
+        "entity": "Cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "aneurysmal rupture",
+        "type": "Disease"
+      },
+      {
+        "entity": "aneurysms",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Contrary to the published literature , this group did reasonably well with aggressive management .",
+    "entities": []
+  },
+  {
+    "text": "Effect of intravenous nimodipine on blood pressure and outcome after acute stroke .",
+    "entities": [
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "acute stroke",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND AND PURPOSE : The Intravenous Nimodipine West European Stroke Trial ( INWEST ) found a correlation between nimodipine - induced reduction in blood pressure ( BP ) and an unfavorable outcome in acute stroke .",
+    "entities": [
+      {
+        "entity": "Nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "Stroke",
+        "type": "Disease"
+      },
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "reduction in blood pressure",
+        "type": "Disease"
+      },
+      {
+        "entity": "acute stroke",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We sought to confirm this correlation with and without adjustment for prognostic variables and to investigate outcome in subgroups with increasing levels of BP reduction .",
+    "entities": [
+      {
+        "entity": "BP reduction",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : Patients with a clinical diagnosis of ischemic stroke ( within 24 hours ) were consecutively allocated to receive placebo ( n = 100 ) , 1 mg / h ( low - dose ) nimodipine ( n = 101 ) , or 2 mg / h ( high - dose ) nimodipine ( n = 94 ) .",
+    "entities": [
+      {
+        "entity": "ischemic stroke",
+        "type": "Disease"
+      },
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The correlation between average BP change during the first 2 days and the outcome at day 21 was analyzed .",
+    "entities": []
+  },
+  {
+    "text": "RESULTS : Two hundred sixty - five patients were included in this analysis ( n = 92 , 93 , and 80 for placebo , low dose , and high dose , respectively ) .",
+    "entities": []
+  },
+  {
+    "text": "Nimodipine treatment resulted in a statistically significant reduction in systolic BP ( SBP ) and diastolic BP ( DBP ) from baseline compared with placebo during the first few days .",
+    "entities": [
+      {
+        "entity": "Nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "reduction in systolic BP",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In multivariate analysis , a significant correlation between DBP reduction and worsening of the neurological score was found for the high - dose group ( beta = 0 . 49 , P = 0 . 048 ) .",
+    "entities": [
+      {
+        "entity": "DBP reduction",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Patients with a DBP reduction of > or = 20 % in the high - dose group had a significantly increased adjusted OR for the compound outcome variable death or dependency ( Barthel Index < 60 ) ( n / N = 25 / 26 , OR 10 . 16 , 95 % CI 1 . 02 to 101 . 74 ) and death alone ( n / N = 9 / 26 , OR 4 . 336 , 95 % CI 1 . 131 16 . 619 ) compared with all placebo patients ( n / N = 62 / 92 and 14 / 92 , respectively ) .",
+    "entities": [
+      {
+        "entity": "DBP reduction",
+        "type": "Disease"
+      },
+      {
+        "entity": "death",
+        "type": "Disease"
+      },
+      {
+        "entity": "death",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "There was no correlation between SBP change and outcome .",
+    "entities": []
+  },
+  {
+    "text": "CONCLUSIONS : DBP , but not SBP , reduction was associated with neurological worsening after the intravenous administration of high - dose nimodipine after acute stroke .",
+    "entities": [
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "acute stroke",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "For low - dose nimodipine , the results were not conclusive .",
+    "entities": [
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These results do not confirm or exclude a neuroprotective property of nimodipine .",
+    "entities": [
+      {
+        "entity": "nimodipine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Neonatal pyridoxine responsive convulsions due to isoniazid therapy .",
+    "entities": [
+      {
+        "entity": "pyridoxine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "convulsions",
+        "type": "Disease"
+      },
+      {
+        "entity": "isoniazid",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A 17 - day - old infant on isoniazid therapy 13 mg / kg daily from birth because of maternal tuberculosis was admitted after 4 days of clonic fits .",
+    "entities": [
+      {
+        "entity": "isoniazid",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tuberculosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "clonic fits",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "No underlying infective or biochemical cause could be found .",
+    "entities": []
+  },
+  {
+    "text": "The fits ceased within 4 hours of administering intramuscular pyridoxine , suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication .",
+    "entities": [
+      {
+        "entity": "fits",
+        "type": "Disease"
+      },
+      {
+        "entity": "pyridoxine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pyridoxine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "isoniazid",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine sedation for the reduction of children ' s fractures in the emergency department .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fractures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND : There recently has been a resurgence in the utilization of ketamine , a unique anesthetic , for emergency - department procedures requiring sedation .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The purpose of the present study was to examine the safety and efficacy of ketamine for sedation in the treatment of children ' s fractures in the emergency department .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fractures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : One hundred and fourteen children ( average age , 5 . 3 years ; range , twelve months to ten years and ten months ) who underwent closed reduction of an isolated fracture or dislocation in the emergency department at a level - I trauma center were prospectively evaluated .",
+    "entities": [
+      {
+        "entity": "fracture",
+        "type": "Disease"
+      },
+      {
+        "entity": "dislocation",
+        "type": "Disease"
+      },
+      {
+        "entity": "trauma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine hydrochloride was administered intravenously ( at a dose of two milligrams per kilogram of body weight ) in ninety - nine of the patients and intramuscularly ( at a dose of four milligrams per kilogram of body weight ) in the other fifteen .",
+    "entities": [
+      {
+        "entity": "Ketamine hydrochloride",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A board - certified emergency physician skilled in airway management supervised administration of the anesthetic , and the patients were monitored by a registered nurse .",
+    "entities": []
+  },
+  {
+    "text": "Any pain during the reduction was rated by the orthopaedic surgeon treating the patient according to the Children ' s Hospital of Eastern Ontario Pain Scale ( CHEOPS ) .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : The average time from intravenous administration of ketamine to manipulation of the fracture or dislocation was one minute and thirty - six seconds ( range , twenty seconds to five minutes ) , and the average time from intramuscular administration to manipulation was four minutes and forty - two seconds ( range , sixty seconds to fifteen minutes ) .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fracture",
+        "type": "Disease"
+      },
+      {
+        "entity": "dislocation",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The average score according to the Children ' s Hospital of Eastern Ontario Pain Scale was 6 . 4 points ( range , 5 to 10 points ) , reflecting minimal or no pain during fracture reduction .",
+    "entities": [
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "fracture",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Adequate fracture reduction was obtained in 111 of the children .",
+    "entities": [
+      {
+        "entity": "fracture",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ninety - nine percent ( sixty - eight ) of the sixty - nine parents present during the reduction were pleased with the sedation and would allow it to be used again in a similar situation .",
+    "entities": []
+  },
+  {
+    "text": "Patency of the airway and independent respiration were maintained in all of the patients .",
+    "entities": []
+  },
+  {
+    "text": "Blood pressure and heart rate remained stable .",
+    "entities": []
+  },
+  {
+    "text": "Minor side effects included nausea ( thirteen patients ) , emesis ( eight of the thirteen patients with nausea ) , clumsiness ( evident as ataxic movements in ten patients ) , and dysphoric reaction ( one patient ) .",
+    "entities": [
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      },
+      {
+        "entity": "emesis",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      },
+      {
+        "entity": "clumsiness",
+        "type": "Disease"
+      },
+      {
+        "entity": "ataxic movements",
+        "type": "Disease"
+      },
+      {
+        "entity": "dysphoric reaction",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "No long - term sequelae were noted , and no patients had hallucinations or nightmares .",
+    "entities": [
+      {
+        "entity": "hallucinations",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSIONS : Ketamine reliably , safely , and quickly provided adequate sedation to effectively facilitate the reduction of children ' s fractures in the emergency department at our institution .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "fractures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine should only be used in an environment such as the emergency department , where proper one - on - one monitoring is used and board - certified physicians skilled in airway management are directly involved in the care of the patient .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Cyclosporine and tacrolimus - associated thrombotic microangiopathy .",
+    "entities": [
+      {
+        "entity": "Cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "thrombotic microangiopathy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The development of thrombotic microangiopathy ( TMA ) associated with the use of cyclosporine has been well documented .",
+    "entities": [
+      {
+        "entity": "thrombotic microangiopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Treatments have included discontinuation or reduction of cyclosporine dose with or without concurrent plasma exchange , plasma infusion , anticoagulation , and intravenous immunoglobulin G infusion .",
+    "entities": [
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "However , for recipients of organ transplantation , removing the inciting agent is not without the attendant risk of precipitating acute rejection and graft loss .",
+    "entities": []
+  },
+  {
+    "text": "The last decade has seen the emergence of tacrolimus as a potent immunosuppressive agent with mechanisms of action virtually identical to those of cyclosporine .",
+    "entities": [
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "As a result , switching to tacrolimus has been reported to be a viable therapeutic option in the setting of cyclosporine - induced TMA .",
+    "entities": [
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "With the more widespread application of tacrolimus in organ transplantation , tacrolimus - associated TMA has also been recognized .",
+    "entities": [
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "However , literature regarding the incidence of the recurrence of TMA in patients exposed sequentially to cyclosporine and tacrolimus is limited .",
+    "entities": [
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We report a case of a living donor renal transplant recipient who developed cyclosporine - induced TMA that responded to the withdrawal of cyclosporine in conjunction with plasmapheresis and fresh frozen plasma replacement therapy .",
+    "entities": [
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Introduction of tacrolimus as an alternative immunosuppressive agent resulted in the recurrence of TMA and the subsequent loss of the renal allograft .",
+    "entities": [
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Patients who are switched from cyclosporine to tacrolimus or vice versa should be closely monitored for the signs and symptoms of recurrent TMA .",
+    "entities": [
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "TMA",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Analgesic effect of intravenous ketamine in cancer patients on morphine therapy : a randomized , controlled , double - blind , crossover , double - dose study .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cancer",
+        "type": "Disease"
+      },
+      {
+        "entity": "morphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Pain not responsive to morphine is often problematic .",
+    "entities": [
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "morphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Animal and clinical studies have suggested that N - methyl - D - aspartate ( NMDA ) antagonists , such as ketamine , may be effective in improving opioid analgesia in difficult pain syndromes , such as neuropathic pain .",
+    "entities": [
+      {
+        "entity": "N - methyl - D - aspartate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NMDA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "neuropathic pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "A slow bolus of subhypnotic doses of ketamine ( 0 . 25 mg / kg or 0 . 50 mg / kg ) was given to 10 cancer patients whose pain was unrelieved by morphine in a randomized , double - blind , crossover , double - dose study .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cancer",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "morphine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Pain intensity on a 0 to 10 numerical scale ; nausea and vomiting , drowsiness , confusion , and dry mouth , using a scale from 0 to 3 ( not at all , slight , a lot , awful ) ; Mini - Mental State Examination ( MMSE ) ( 0 - 30 ) ; and arterial pressure were recorded before administration of drugs ( T0 ) and after 30 minutes ( T30 ) , 60 minutes ( T60 ) , 120 minutes ( T120 ) , and 180 minutes ( T180 ) .",
+    "entities": [
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      },
+      {
+        "entity": "vomiting",
+        "type": "Disease"
+      },
+      {
+        "entity": "confusion",
+        "type": "Disease"
+      },
+      {
+        "entity": "dry mouth",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine , but not saline solution , significantly reduced the pain intensity in almost all the patients at both doses .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This effect was more relevant in patients treated with higher doses .",
+    "entities": []
+  },
+  {
+    "text": "Hallucinations occurred in 4 patients , and an unpleasant sensation ( \" empty head \" ) was also reported by 2 patients .",
+    "entities": [
+      {
+        "entity": "Hallucinations",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These episodes reversed after the administration of diazepam 1 mg intravenously .",
+    "entities": [
+      {
+        "entity": "diazepam",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Significant increases in drowsiness were reported in patients treated with ketamine in both groups and were more marked with ketamine 0 . 50 mg / kg .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A significant difference in MMSE was observed at T30 in patients who received 0 . 50 mg / kg of ketamine .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Ketamine can improve morphine analgesia in difficult pain syndromes , such as neuropathic pain .",
+    "entities": [
+      {
+        "entity": "Ketamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "morphine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "neuropathic pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "However , the occurrence of central adverse effects should be taken into account , especially when using higher doses .",
+    "entities": []
+  },
+  {
+    "text": "This observation should be tested in studies of prolonged ketamine administration .",
+    "entities": [
+      {
+        "entity": "ketamine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Paclitaxel , cisplatin , and gemcitabine combination chemotherapy within a multidisciplinary therapeutic approach in metastatic nonsmall cell lung carcinoma .",
+    "entities": [
+      {
+        "entity": "Paclitaxel",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nonsmall cell lung carcinoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND : Cisplatin - based chemotherapy combinations improve quality of life and survival in advanced nonsmall cell lung carcinoma ( NSCLC ) .",
+    "entities": [
+      {
+        "entity": "Cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nonsmall cell lung carcinoma",
+        "type": "Disease"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The emergence of new active drugs might translate into more effective regimens for the treatment of this disease .",
+    "entities": []
+  },
+  {
+    "text": "METHODS : The objective of this study was to determine the feasibility , response rate , and toxicity of a paclitaxel , cisplatin , and gemcitabine combination to treat metastatic NSCLC .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "paclitaxel",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Thirty - five consecutive chemotherapy - naive patients with Stage IV NSCLC and an Eastern Cooperative Oncology Group performance status of 0 - 2 were treated with a combination of paclitaxel ( 135 mg / m ( 2 ) given intravenously in 3 hours ) on Day 1 , cisplatin ( 120 mg / m ( 2 ) given intravenously in 6 hours ) on Day 1 , and gemcitabine ( 800 mg / m ( 2 ) given intravenously in 30 minutes ) on Days 1 and 8 , every 4 weeks .",
+    "entities": [
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      },
+      {
+        "entity": "paclitaxel",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Although responding patients were scheduled to receive consolidation radiotherapy and 24 patients received preplanned second - line chemotherapy after disease progression , the response and toxicity rates reported refer only to the chemotherapy regimen given .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : All the patients were examined for toxicity ; 34 were examinable for response .",
+    "entities": [
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "An objective response was observed in 73 . 5 % of the patients ( 95 % confidence interval [ CI ] , 55 . 6 - 87 . 1 % ) , including 4 complete responses ( 11 . 7 % ) .",
+    "entities": []
+  },
+  {
+    "text": "According to intention - to - treat , the overall response rate was 71 . 4 % ( 95 % CI , 53 . 7 - 85 . 4 % ) .",
+    "entities": []
+  },
+  {
+    "text": "After 154 courses of therapy , the median dose intensity was 131 mg / m ( 2 ) for paclitaxel ( 97 . 3 % ) , 117 mg / m ( 2 ) for cisplatin ( 97 . 3 % ) , and 1378 mg / m ( 2 ) for gemcitabine ( 86 . 2 % ) .",
+    "entities": [
+      {
+        "entity": "paclitaxel",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "World Health Organization Grade 3 - 4 neutropenia and thrombocytopenia occurred in 39 . 9 % and 11 . 4 % of patients , respectively .",
+    "entities": [
+      {
+        "entity": "neutropenia",
+        "type": "Disease"
+      },
+      {
+        "entity": "thrombocytopenia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "There was one treatment - related death .",
+    "entities": [
+      {
+        "entity": "death",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Nonhematologic toxicities were mild .",
+    "entities": [
+      {
+        "entity": "toxicities",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "After a median follow - up of 22 months , the median progression free survival rate was 7 months , and the median survival time was 16 months .",
+    "entities": []
+  },
+  {
+    "text": "CONCLUSIONS : The combination of paclitaxel , cisplatin , and gemcitabine is well tolerated and shows high activity in metastatic NSCLC .",
+    "entities": [
+      {
+        "entity": "paclitaxel",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gemcitabine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NSCLC",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This treatment merits further comparison with other cisplatin - based regimens .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Serotonergic antidepressants and urinary incontinence .",
+    "entities": [
+      {
+        "entity": "Serotonergic antidepressants",
+        "type": "Chemical"
+      },
+      {
+        "entity": "urinary incontinence",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Many new serotonergic antidepressants have been introduced over the past decade .",
+    "entities": [
+      {
+        "entity": "serotonergic antidepressants",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Although urinary incontinence is listed as one side effect of these drugs in their package inserts there is only one report in the literature .",
+    "entities": [
+      {
+        "entity": "urinary incontinence",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This concerns 2 male patients who experienced incontinence while taking venlafaxine .",
+    "entities": [
+      {
+        "entity": "incontinence",
+        "type": "Disease"
+      },
+      {
+        "entity": "venlafaxine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline , as well as a third who developed this side effect on venlafaxine .",
+    "entities": [
+      {
+        "entity": "incontinence",
+        "type": "Disease"
+      },
+      {
+        "entity": "serotonin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "paroxetine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "sertraline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "venlafaxine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In 2 of the 3 cases the patients were also taking lithium carbonate and beta - blockers , both of which could have contributed to the incontinence .",
+    "entities": [
+      {
+        "entity": "lithium carbonate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "incontinence",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder .",
+    "entities": [
+      {
+        "entity": "incontinence",
+        "type": "Disease"
+      },
+      {
+        "entity": "serotonergic antidepressants",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Further research is needed to delineate the frequency of this troubling side effect and how best to treat it .",
+    "entities": []
+  },
+  {
+    "text": "Acute cocaine - induced seizures : differential sensitivity of six inbred mouse strains .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Mature male and female mice from six inbred stains were tested for susceptibility to behavioral seizures induced by a single injection of cocaine .",
+    "entities": [
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Cocaine was injected ip over a range of doses ( 50 - 100 mg / kg ) and behavior was monitored for 20 minutes .",
+    "entities": [
+      {
+        "entity": "Cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Seizure end points included latency to forelimb or hindlimb clonus , latency to clonic running seizure and latency to jumping bouncing seizure .",
+    "entities": [
+      {
+        "entity": "Seizure",
+        "type": "Disease"
+      },
+      {
+        "entity": "seizure",
+        "type": "Disease"
+      },
+      {
+        "entity": "seizure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "A range of strain specific sensitivities was documented with A / J and SJL mice being most sensitive and C57BL / 6J most resistant .",
+    "entities": []
+  },
+  {
+    "text": "DBA / 2J , BALB / cByJ and NZW / LacJ strains exhibited intermediate sensitivity .",
+    "entities": []
+  },
+  {
+    "text": "EEG recordings were made in SJL , A / J and C57BL / 6J mice revealing a close correspondence between electrical activity and behavior .",
+    "entities": []
+  },
+  {
+    "text": "Additionally , levels of cocaine determined in hippocampus and cortex were not different between sensitive and resistant strains .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Additional studies of these murine strains may be useful for investigating genetic influences on cocaine - induced seizures .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Hypotension following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension .",
+    "entities": [
+      {
+        "entity": "Hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "tizanidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "angiotensin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Centrally acting alpha - 2 adrenergic agonists are one of several pharmacologic agents used in the treatment of spasticity related to disorders of the central nervous system .",
+    "entities": [
+      {
+        "entity": "spasticity",
+        "type": "Disease"
+      },
+      {
+        "entity": "disorders of the central nervous system",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In addition to their effects on spasticity , certain adverse cardiorespiratory effects have been reported .",
+    "entities": [
+      {
+        "entity": "spasticity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Adults chronically treated with angiotensin converting enzyme inhibitors may have a limited ability to respond to hypotension when the sympathetic response is simultaneously blocked .",
+    "entities": [
+      {
+        "entity": "angiotensin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The authors present a 10 - year - old boy chronically treated with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who developed hypotension following the addition of tizanidine , an alpha - 2 agonist , for the treatment of spasticity .",
+    "entities": [
+      {
+        "entity": "lisinopril",
+        "type": "Chemical"
+      },
+      {
+        "entity": "angiotensin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "tizanidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "spasticity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or spasticity in such patients .",
+    "entities": [
+      {
+        "entity": "tizanidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "spasticity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Two mouse lines selected for differential sensitivities to beta - carboline - induced seizures are also differentially sensitive to various pharmacological effects of other GABA ( A ) receptor ligands .",
+    "entities": [
+      {
+        "entity": "beta - carboline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      },
+      {
+        "entity": "GABA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Two mouse lines were selectively bred according to their sensitivity ( BS line ) or resistance ( BR line ) to seizures induced by a single i . p . injection of methyl beta - carboline - 3 - carboxylate ( beta - CCM ) , an inverse agonist of the GABA ( A ) receptor benzodiazepine site .",
+    "entities": [
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      },
+      {
+        "entity": "methyl beta - carboline - 3 - carboxylate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "beta - CCM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GABA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "benzodiazepine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Our aim was to characterize both lines ' sensitivities to various physiological effects of other ligands of the GABA ( A ) receptor .",
+    "entities": [
+      {
+        "entity": "GABA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We measured diazepam - induced anxiolysis with the elevated plus - maze test , diazepam - induced sedation by recording the vigilance states , and picrotoxin - and pentylenetetrazol - induced seizures after i . p . injections .",
+    "entities": [
+      {
+        "entity": "diazepam",
+        "type": "Chemical"
+      },
+      {
+        "entity": "diazepam",
+        "type": "Chemical"
+      },
+      {
+        "entity": "picrotoxin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pentylenetetrazol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "seizures",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Results presented here show that the differential sensitivities of BS and BR lines to beta - CCM can be extended to diazepam , picrotoxin , and pentylenetetrazol , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA ( A ) receptor .",
+    "entities": [
+      {
+        "entity": "beta - CCM",
+        "type": "Chemical"
+      },
+      {
+        "entity": "diazepam",
+        "type": "Chemical"
+      },
+      {
+        "entity": "picrotoxin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pentylenetetrazol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GABA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Propylthiouracil - induced perinuclear - staining antineutrophil cytoplasmic autoantibody - positive vasculitis in conjunction with pericarditis .",
+    "entities": [
+      {
+        "entity": "Propylthiouracil",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vasculitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "pericarditis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "OBJECTIVE : To describe a case of propylthiouracil - induced vasculitis manifesting with pericarditis .",
+    "entities": [
+      {
+        "entity": "propylthiouracil",
+        "type": "Chemical"
+      },
+      {
+        "entity": "vasculitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "pericarditis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : We present the first case report of a woman with hyperthyroidism treated with propylthiouracil in whom a syndrome of pericarditis , fever , and glomerulonephritis developed .",
+    "entities": [
+      {
+        "entity": "hyperthyroidism",
+        "type": "Disease"
+      },
+      {
+        "entity": "propylthiouracil",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pericarditis",
+        "type": "Disease"
+      },
+      {
+        "entity": "fever",
+        "type": "Disease"
+      },
+      {
+        "entity": "glomerulonephritis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Serologic testing and immunologic studies were done , and a pericardial biopsy was performed .",
+    "entities": []
+  },
+  {
+    "text": "RESULTS : A 25 - year - old woman with Graves ' disease had a febrile illness and evidence of pericarditis , which was confirmed by biopsy .",
+    "entities": [
+      {
+        "entity": "Graves ' disease",
+        "type": "Disease"
+      },
+      {
+        "entity": "febrile illness",
+        "type": "Disease"
+      },
+      {
+        "entity": "pericarditis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Serologic evaluation revealed the presence of perinuclear - staining antineutrophil cytoplasmic autoantibodies ( pANCA ) against myeloperoxidase ( MPO ) .",
+    "entities": []
+  },
+  {
+    "text": "Propylthiouracil therapy was withdrawn , and she was treated with a 1 - month course of prednisone , which alleviated her symptoms .",
+    "entities": [
+      {
+        "entity": "Propylthiouracil",
+        "type": "Chemical"
+      },
+      {
+        "entity": "prednisone",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A literature review revealed no prior reports of pericarditis in anti - MPO pANCA - positive vasculitis associated with propylthio - uracil therapy .",
+    "entities": [
+      {
+        "entity": "pericarditis",
+        "type": "Disease"
+      },
+      {
+        "entity": "vasculitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "propylthio - uracil",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION : Pericarditis may be the initial manifestation of drug - induced vasculitis attributable to propylthio - uracil therapy .",
+    "entities": [
+      {
+        "entity": "Pericarditis",
+        "type": "Disease"
+      },
+      {
+        "entity": "vasculitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "propylthio - uracil",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Repeated transient anuria following losartan administration in a patient with a solitary kidney .",
+    "entities": [
+      {
+        "entity": "anuria",
+        "type": "Disease"
+      },
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We report the case of a 70 - year - old hypertensive man with a solitary kidney and chronic renal insufficiency who developed two episodes of transient anuria after losartan administration .",
+    "entities": [
+      {
+        "entity": "hypertensive",
+        "type": "Disease"
+      },
+      {
+        "entity": "chronic renal insufficiency",
+        "type": "Disease"
+      },
+      {
+        "entity": "anuria",
+        "type": "Disease"
+      },
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "He was hospitalized for a myocardial infarction with pulmonary edema , treated with high - dose diuretics .",
+    "entities": [
+      {
+        "entity": "myocardial infarction",
+        "type": "Disease"
+      },
+      {
+        "entity": "pulmonary edema",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Due to severe systolic dysfunction losartan was prescribed .",
+    "entities": [
+      {
+        "entity": "systolic dysfunction",
+        "type": "Disease"
+      },
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Surprisingly , the first dose of 50 mg of losartan resulted in a sudden anuria , which lasted eight hours despite high - dose furosemide and amine infusion .",
+    "entities": [
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "anuria",
+        "type": "Disease"
+      },
+      {
+        "entity": "furosemide",
+        "type": "Chemical"
+      },
+      {
+        "entity": "amine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "One week later , by mistake , losartan was prescribed again and after the second dose of 50 mg , the patient developed a second episode of transient anuria lasting 10 hours .",
+    "entities": [
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "anuria",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "During these two episodes , his blood pressure diminished but no severe hypotension was noted .",
+    "entities": [
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ultimately , an arteriography showed a 70 - 80 % renal artery stenosis .",
+    "entities": [
+      {
+        "entity": "renal artery stenosis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In this patient , renal artery stenosis combined with heart failure and diuretic therapy certainly resulted in a strong activation of the renin - angiotensin system ( RAS ) .",
+    "entities": [
+      {
+        "entity": "renal artery stenosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "angiotensin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Under such conditions , angiotensin II receptor blockade by losartan probably induced a critical fall in glomerular filtration pressure .",
+    "entities": [
+      {
+        "entity": "angiotensin II",
+        "type": "Chemical"
+      },
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This case report highlights the fact that the angiotensin II receptor antagonist losartan can cause serious unexpected complications in patients with renovascular disease and should be used with extreme caution in this setting .",
+    "entities": [
+      {
+        "entity": "angiotensin II",
+        "type": "Chemical"
+      },
+      {
+        "entity": "losartan",
+        "type": "Chemical"
+      },
+      {
+        "entity": "renovascular disease",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Calcineurin - inhibitor induced pain syndrome ( CIPS ) : a severe disabling complication after organ transplantation .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "CIPS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Bone pain after transplantation is a frequent complication that can be caused by several diseases .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Treatment strategies depend on the correct diagnosis of the pain .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Nine patients with severe pain in their feet , which was registered after transplantation , were investigated .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Bone scans showed an increased tracer uptake of the foot bones .",
+    "entities": []
+  },
+  {
+    "text": "Magnetic resonance imaging demonstrated bone marrow oedema in the painful bones .",
+    "entities": [
+      {
+        "entity": "bone marrow oedema",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Pain was not explained by other diseases causing foot pain , like reflex sympathetic dystrophy , polyneuropathy , Morton ' s neuralgia , gout , osteoporosis , avascular necrosis , intermittent claudication , orthopaedic foot deformities , stress fractures , and hyperparathyroidism .",
+    "entities": [
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "reflex sympathetic dystrophy",
+        "type": "Disease"
+      },
+      {
+        "entity": "polyneuropathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "Morton ' s neuralgia",
+        "type": "Disease"
+      },
+      {
+        "entity": "gout",
+        "type": "Disease"
+      },
+      {
+        "entity": "osteoporosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "avascular necrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "intermittent claudication",
+        "type": "Disease"
+      },
+      {
+        "entity": "foot deformities",
+        "type": "Disease"
+      },
+      {
+        "entity": "stress fractures",
+        "type": "Disease"
+      },
+      {
+        "entity": "hyperparathyroidism",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The reduction of cyclosporine - or tacrolimus trough levels and the administration of calcium channel blockers led to relief of pain .",
+    "entities": [
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      },
+      {
+        "entity": "calcium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The Calcineurin - inhibitor Induced Pain Syndrome ( CIPS ) is a rare but severe side effect of cyclosporine or tacrolimus and is accurately diagnosed by its typical presentation , magnetic resonance imaging and bone scans .",
+    "entities": [
+      {
+        "entity": "Pain",
+        "type": "Disease"
+      },
+      {
+        "entity": "CIPS",
+        "type": "Disease"
+      },
+      {
+        "entity": "cyclosporine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "tacrolimus",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Incorrect diagnosis of the syndrome will lead to a significant reduction of life quality in patients suffering from CIPS .",
+    "entities": [
+      {
+        "entity": "CIPS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Brain natriuretic peptide is a predictor of anthracycline - induced cardiotoxicity .",
+    "entities": [
+      {
+        "entity": "anthracycline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Anthracyclines are effective antineoplastic drugs , but they frequently cause dose - related cardiotoxicity .",
+    "entities": [
+      {
+        "entity": "Anthracyclines",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The cardiotoxicity of conventional anthracycline therapy highlights a need to search for methods that are highly sensitive and capable of predicting cardiac dysfunction .",
+    "entities": [
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "anthracycline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiac dysfunction",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We measured the plasma level of brain natriuretic peptide ( BNP ) to determine whether BNP might serve as a simple diagnostic indicator of anthracycline - induced cardiotoxicity in patients with acute leukemia treated with a daunorubicin ( DNR ) - containing regimen .",
+    "entities": [
+      {
+        "entity": "anthracycline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "acute leukemia",
+        "type": "Disease"
+      },
+      {
+        "entity": "daunorubicin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DNR",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Thirteen patients with acute leukemia were treated with a DNR - containing regimen .",
+    "entities": [
+      {
+        "entity": "acute leukemia",
+        "type": "Disease"
+      },
+      {
+        "entity": "DNR",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Cardiac functions were evaluated with radionuclide angiography before chemotherapies .",
+    "entities": []
+  },
+  {
+    "text": "The plasma levels of atrial natriuretic peptide ( ANP ) and BNP were measured at the time of radionuclide angiography .",
+    "entities": []
+  },
+  {
+    "text": "Three patients developed congestive heart failure after the completion of chemotherapy .",
+    "entities": [
+      {
+        "entity": "congestive heart failure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Five patients were diagnosed as having subclinical heart failure after the completion of chemotherapy .",
+    "entities": [
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The plasma levels of BNP in all the patients with clinical and subclinical heart failure increased above the normal limit ( 40 pg / ml ) before the detection of clinical or subclinical heart failure by radionuclide angiography .",
+    "entities": [
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "On the other hand , BNP did not increase in the patients without heart failure given DNR , even at more than 700 mg / m ( 2 ) .",
+    "entities": [
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "DNR",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The plasma level of ANP did not always increase in all the patients with clinical and subclinical heart failure .",
+    "entities": [
+      {
+        "entity": "heart failure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These preliminary results suggest that BNP may be useful as an early and sensitive indicator of anthracycline - induced cardiotoxicity .",
+    "entities": [
+      {
+        "entity": "anthracycline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Nephrotoxicity of combined cephalothin - gentamicin regimen .",
+    "entities": [
+      {
+        "entity": "Nephrotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "cephalothin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gentamicin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Two patients developed acute tubular necrosis , characterized clinically by acute oliguric renal failure , while they were receiving a combination of cephalothin sodium and gentamicin sulfate therapy .",
+    "entities": [
+      {
+        "entity": "acute tubular necrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "oliguric renal failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "cephalothin sodium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "gentamicin sulfate",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Patients who are given this drug regimen should be observed very carefully for early signs of nephrotoxicity .",
+    "entities": [
+      {
+        "entity": "nephrotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "High doses of this antibiotic combination should be avoided especially in elderly patients .",
+    "entities": []
+  },
+  {
+    "text": "Patients with renal insufficiency should not be given this regimen .",
+    "entities": [
+      {
+        "entity": "renal insufficiency",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In vivo protection of dna damage associated apoptotic and necrotic cell deaths during acetaminophen - induced nephrotoxicity , amiodarone - induced lung toxicity and doxorubicin - induced cardiotoxicity by a novel IH636 grape seed proanthocyanidin extract .",
+    "entities": [
+      {
+        "entity": "necrotic",
+        "type": "Disease"
+      },
+      {
+        "entity": "acetaminophen",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nephrotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "amiodarone",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lung toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "doxorubicin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "IH636 grape seed proanthocyanidin extract",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Grape seed extract , primarily a mixture of proanthocyanidins , has been shown to modulate a wide - range of biological , pharmacological and toxicological effects which are mainly cytoprotective .",
+    "entities": [
+      {
+        "entity": "Grape seed extract",
+        "type": "Chemical"
+      },
+      {
+        "entity": "proanthocyanidins",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This study assessed the ability of IH636 grape seed proanthocyanidin extract ( GSPE ) to prevent acetaminophen ( AAP ) - induced nephrotoxicity , amiodarone ( AMI ) - induced lung toxicity , and doxorubicin ( DOX ) - induced cardiotoxicity in mice .",
+    "entities": [
+      {
+        "entity": "IH636 grape seed proanthocyanidin extract",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      },
+      {
+        "entity": "acetaminophen",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AAP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nephrotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "amiodarone",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lung toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "doxorubicin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOX",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiotoxicity",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Experimental design consisted of four groups : control ( vehicle alone ) , GSPE alone , drug alone and GSPE + drug .",
+    "entities": [
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "For the cytoprotection study , animals were orally gavaged 100 mg / Kg GSPE for 7 - 10 days followed by i . p . injections of organ specific three drugs ( AAP : 500 mg / Kg for 24 h ; AMI : 50 mg / Kg / day for four days ; DOX : 20 mg / Kg for 48 h ) .",
+    "entities": [
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AAP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOX",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Parameters of study included analysis of serum chemistry ( ALT , BUN and CPK ) , and orderly fragmentation of genomic DNA ( both endonuclease - dependent and independent ) in addition to microscopic evaluation of damage and / or protection in corresponding PAS stained tissues .",
+    "entities": []
+  },
+  {
+    "text": "Results indicate that GSPE preexposure prior to AAP , AMI and DOX , provided near complete protection in terms of serum chemistry changes ( ALT , BUN and CPK ) , and significantly reduced DNA fragmentation .",
+    "entities": [
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AAP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOX",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Histopathological examination of kidney , heart and lung sections revealed moderate to massive tissue damage with a variety of morphological aberrations by all the three drugs in the absence of GSPE preexposure than in its presence .",
+    "entities": [
+      {
+        "entity": "tissue damage",
+        "type": "Disease"
+      },
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "GSPE + drug exposed tissues exhibited minor residual damage or near total recovery .",
+    "entities": [
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Additionally , histopathological alterations mirrored both serum chemistry changes and the pattern of DNA fragmentation .",
+    "entities": []
+  },
+  {
+    "text": "Interestingly , all the drugs , such as , AAP , AMI and DOX induced apoptotic death in addition to necrosis in the respective organs which was very effectively blocked by GSPE .",
+    "entities": [
+      {
+        "entity": "AAP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOX",
+        "type": "Chemical"
+      },
+      {
+        "entity": "necrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Since AAP , AMI and DOX undergo biotransformation and are known to produce damaging radicals in vivo , the protection by GSPE may be linked to both inhibition of metabolism and / or detoxification of cytotoxic radicals .",
+    "entities": [
+      {
+        "entity": "AAP",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DOX",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In addition , its ' presumed contribution to DNA repair may be another important attribute , which played a role in the chemoprevention process .",
+    "entities": []
+  },
+  {
+    "text": "Additionally , this may have been the first report on AMI - induced apoptotic death in the lung tissue .",
+    "entities": [
+      {
+        "entity": "AMI",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Taken together , these events undoubtedly establish GSPE ' s abundant bioavailability , and the power to defend multiple target organs from toxic assaults induced by structurally diverse and functionally different entities in vivo .",
+    "entities": [
+      {
+        "entity": "GSPE",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Antidepressant - induced mania in bipolar patients : identification of risk factors .",
+    "entities": [
+      {
+        "entity": "Antidepressant",
+        "type": "Chemical"
+      },
+      {
+        "entity": "mania",
+        "type": "Disease"
+      },
+      {
+        "entity": "bipolar",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND : Concerns about possible risks of switching to mania associated with antidepressants continue to interfere with the establishment of an optimal treatment paradigm for bipolar depression .",
+    "entities": [
+      {
+        "entity": "mania",
+        "type": "Disease"
+      },
+      {
+        "entity": "antidepressants",
+        "type": "Chemical"
+      },
+      {
+        "entity": "bipolar depression",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHOD : The response of 44 patients meeting DSM - IV criteria for bipolar disorder to naturalistic treatment was assessed for at least 6 weeks using the Montgomery - Asberg Depression Rating Scale and the Bech - Rafaelson Mania Rating Scale .",
+    "entities": [
+      {
+        "entity": "bipolar disorder",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Patients who experienced a manic or hypomanic switch were compared with those who did not on several variables including age , sex , diagnosis ( DSM - IV bipolar I vs . bipolar II ) , number of previous manic episodes , type of antidepressant therapy used ( electroconvulsive therapy vs . antidepressant drugs and , more particularly , selective serotonin reuptake inhibitors [ SSRIs ] ) , use and type of mood stabilizers ( lithium vs . anticonvulsants ) , and temperament of the patient , assessed during a normothymic period using the hyperthymia component of the Semi - structured Affective Temperament Interview .",
+    "entities": [
+      {
+        "entity": "manic",
+        "type": "Disease"
+      },
+      {
+        "entity": "hypomanic",
+        "type": "Disease"
+      },
+      {
+        "entity": "DSM - IV bipolar I",
+        "type": "Disease"
+      },
+      {
+        "entity": "bipolar II",
+        "type": "Disease"
+      },
+      {
+        "entity": "manic",
+        "type": "Disease"
+      },
+      {
+        "entity": "antidepressant",
+        "type": "Chemical"
+      },
+      {
+        "entity": "antidepressant",
+        "type": "Chemical"
+      },
+      {
+        "entity": "serotonin reuptake inhibitors",
+        "type": "Chemical"
+      },
+      {
+        "entity": "SSRIs",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lithium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : Switches to hypomania or mania occurred in 27 % of all patients ( N = 12 ) ( and in 24 % of the subgroup of patients treated with SSRIs [ 8 / 33 ] ) ; 16 % ( N = 7 ) experienced manic episodes , and 11 % ( N = 5 ) experienced hypomanic episodes .",
+    "entities": [
+      {
+        "entity": "hypomania",
+        "type": "Disease"
+      },
+      {
+        "entity": "mania",
+        "type": "Disease"
+      },
+      {
+        "entity": "SSRIs",
+        "type": "Chemical"
+      },
+      {
+        "entity": "manic",
+        "type": "Disease"
+      },
+      {
+        "entity": "hypomanic",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Sex , age , diagnosis ( bipolar I vs . bipolar II ) , and additional treatment did not affect the risk of switching .",
+    "entities": [
+      {
+        "entity": "bipolar I",
+        "type": "Disease"
+      },
+      {
+        "entity": "bipolar II",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The incidence of mood switches seemed not to differ between patients receiving an anticonvulsant and those receiving no mood stabilizer .",
+    "entities": []
+  },
+  {
+    "text": "In contrast , mood switches were less frequent in patients receiving lithium ( 15 % , 4 / 26 ) than in patients not treated with lithium ( 44 % , 8 / 18 ; p = . 04 ) .",
+    "entities": [
+      {
+        "entity": "lithium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lithium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The number of previous manic episodes did not affect the probability of switching , whereas a high score on the hyperthymia component of the Semistructured Affective Temperament Interview was associated with a greater risk of switching ( p = . 008 ) .",
+    "entities": [
+      {
+        "entity": "manic",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION : The frequency of mood switching associated with acute antidepressant therapy may be reduced by lithium treatment .",
+    "entities": [
+      {
+        "entity": "antidepressant",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lithium",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Particular attention should be paid to patients with a hyperthymic temperament , who have a greater risk of mood switches .",
+    "entities": []
+  },
+  {
+    "text": "Peritubular capillary basement membrane reduplication in allografts and native kidney disease : a clinicopathologic study of 278 consecutive renal specimens .",
+    "entities": [
+      {
+        "entity": "kidney disease",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND : An association has been found between transplant glomerulopathy ( TG ) and reduplication of peritubular capillary basement membranes ( PTCR ) .",
+    "entities": [
+      {
+        "entity": "transplant glomerulopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "TG",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Although such an association is of practical and theoretical importance , only one prospective study has tried to confirm it .",
+    "entities": []
+  },
+  {
+    "text": "METHODS : We examined 278 consecutive renal specimens ( from 135 transplants and 143 native kidneys ) for ultrastructural evidence of PTCR .",
+    "entities": []
+  },
+  {
+    "text": "In addition to renal allografts with TG , we also examined grafts with acute rejection , recurrent glomerulonephritis , chronic allograft nephropathy and stable grafts ( \" protocol biopsies \" ) .",
+    "entities": [
+      {
+        "entity": "TG",
+        "type": "Disease"
+      },
+      {
+        "entity": "glomerulonephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "chronic allograft nephropathy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Native kidney specimens included a wide range of glomerulopathies as well as cases of thrombotic microangiopathy , malignant hypertension , acute interstitial nephritis , and acute tubular necrosis .",
+    "entities": [
+      {
+        "entity": "glomerulopathies",
+        "type": "Disease"
+      },
+      {
+        "entity": "thrombotic microangiopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "malignant hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "interstitial nephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "acute tubular necrosis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : We found PTCR in 14 of 15 cases of TG , in 7 transplant biopsy specimens without TG , and in 13 of 143 native kidney biopsy specimens .",
+    "entities": [
+      {
+        "entity": "TG",
+        "type": "Disease"
+      },
+      {
+        "entity": "TG",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "These 13 included cases of malignant hypertension , thrombotic microangiopathy , lupus nephritis , Henoch - Schonlein nephritis , crescentic glomerulonephritis , and cocaine - related acute renal failure .",
+    "entities": [
+      {
+        "entity": "malignant hypertension",
+        "type": "Disease"
+      },
+      {
+        "entity": "thrombotic microangiopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "lupus nephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "Henoch - Schonlein nephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "glomerulonephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "acute renal failure",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Mild PTCR in allografts without TG did not predict renal failure or significant proteinuria after follow - up periods of between 3 months and 1 year .",
+    "entities": [
+      {
+        "entity": "TG",
+        "type": "Disease"
+      },
+      {
+        "entity": "renal failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "proteinuria",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSIONS : We conclude that in transplants , there is a strong association between well - developed PTCR and TG , while the significance of mild PTCR and its predictive value in the absence of TG is unclear .",
+    "entities": [
+      {
+        "entity": "TG",
+        "type": "Disease"
+      },
+      {
+        "entity": "TG",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "PTCR also occurs in certain native kidney diseases , though the association is not as strong as that for TG .",
+    "entities": [
+      {
+        "entity": "kidney diseases",
+        "type": "Disease"
+      },
+      {
+        "entity": "TG",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We suggest that repeated endothelial injury , including immunologic injury , may be the cause of this lesion both in allografts and native kidneys .",
+    "entities": [
+      {
+        "entity": "endothelial injury",
+        "type": "Disease"
+      },
+      {
+        "entity": "immunologic injury",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Caffeine - induced cardiac arrhythmia : an unrecognised danger of healthfood products .",
+    "entities": [
+      {
+        "entity": "Caffeine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cardiac arrhythmia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We describe a 25 - year - old woman with pre - existing mitral valve prolapse who developed intractable ventricular fibrillation after consuming a \" natural energy \" guarana health drink containing a high concentration of caffeine .",
+    "entities": [
+      {
+        "entity": "mitral valve prolapse",
+        "type": "Disease"
+      },
+      {
+        "entity": "ventricular fibrillation",
+        "type": "Disease"
+      },
+      {
+        "entity": "caffeine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This case highlights the need for adequate labelling and regulation of such products .",
+    "entities": []
+  },
+  {
+    "text": "Conformationally restricted analogs of BD1008 and an antisense oligodeoxynucleotide targeting sigma1 receptors produce anti - cocaine effects in mice .",
+    "entities": [
+      {
+        "entity": "BD1008",
+        "type": "Chemical"
+      },
+      {
+        "entity": "oligodeoxynucleotide",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Cocaine ' s ability to interact with sigma receptors suggests that these proteins mediate some of its behavioral effects .",
+    "entities": [
+      {
+        "entity": "Cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Therefore , three novel sigma receptor ligands with antagonist activity were evaluated in Swiss Webster mice : BD1018 ( 3S - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane ) , BD1063 ( 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 4 - methylpiperazine ) , and LR132 ( 1R , 2S - ( + ) - cis - N - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 2 - ( 1 - pyrrolidinyl ) cyclohexylamine ) .",
+    "entities": [
+      {
+        "entity": "BD1018",
+        "type": "Chemical"
+      },
+      {
+        "entity": "3S - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane",
+        "type": "Chemical"
+      },
+      {
+        "entity": "BD1063",
+        "type": "Chemical"
+      },
+      {
+        "entity": "1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 4 - methylpiperazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "LR132",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Competition binding assays demonstrated that all three compounds have high affinities for sigma1 receptors .",
+    "entities": []
+  },
+  {
+    "text": "The three compounds vary in their affinities for sigma2 receptors and exhibit negligible affinities for dopamine , opioid , GABA ( A ) and NMDA receptors .",
+    "entities": [
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "GABA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "NMDA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In behavioral studies , pre - treatment of mice with BD1018 , BD1063 , or LR132 significantly attenuated cocaine - induced convulsions and lethality .",
+    "entities": [
+      {
+        "entity": "BD1018",
+        "type": "Chemical"
+      },
+      {
+        "entity": "BD1063",
+        "type": "Chemical"
+      },
+      {
+        "entity": "LR132",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "convulsions",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Moreover , post - treatment with LR132 prevented cocaine - induced lethality in a significant proportion of animals .",
+    "entities": [
+      {
+        "entity": "LR132",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "In contrast to the protection provided by the putative antagonists , the well - characterized sigma receptor agonist di - o - tolylguanidine ( DTG ) and the novel sigma receptor agonist BD1031 ( 3R - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane ) each worsened the behavioral toxicity of cocaine .",
+    "entities": [
+      {
+        "entity": "di - o - tolylguanidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "DTG",
+        "type": "Chemical"
+      },
+      {
+        "entity": "BD1031",
+        "type": "Chemical"
+      },
+      {
+        "entity": "3R - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane",
+        "type": "Chemical"
+      },
+      {
+        "entity": "toxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "At doses where alone , they produced no significant effects on locomotion , BD1018 , BD1063 and LR132 significantly attenuated the locomotor stimulatory effects of cocaine .",
+    "entities": [
+      {
+        "entity": "BD1018",
+        "type": "Chemical"
+      },
+      {
+        "entity": "BD1063",
+        "type": "Chemical"
+      },
+      {
+        "entity": "LR132",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "To further validate the hypothesis that the anti - cocaine effects of the novel ligands involved antagonism of sigma receptors , an antisense oligodeoxynucleotide against sigma1 receptors was also shown to significantly attenuate the convulsive and locomotor stimulatory effects of cocaine .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "oligodeoxynucleotide",
+        "type": "Chemical"
+      },
+      {
+        "entity": "convulsive",
+        "type": "Disease"
+      },
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Together , the data suggests that functional antagonism of sigma receptors is capable of attenuating a number of cocaine - induced behaviors .",
+    "entities": [
+      {
+        "entity": "cocaine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Ranitidine - induced acute interstitial nephritis in a cadaveric renal allograft .",
+    "entities": [
+      {
+        "entity": "Ranitidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "interstitial nephritis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Ranitidine frequently is used for preventing peptic ulceration after renal transplantation .",
+    "entities": [
+      {
+        "entity": "Ranitidine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This drug occasionally has been associated with acute interstitial nephritis in native kidneys .",
+    "entities": [
+      {
+        "entity": "interstitial nephritis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "There are no similar reports with renal transplantation .",
+    "entities": []
+  },
+  {
+    "text": "We report a case of ranitidine - induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug .",
+    "entities": [
+      {
+        "entity": "ranitidine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "interstitial nephritis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The biopsy specimen showed pathognomonic features , including eosinophilic infiltration of the interstitial compartment .",
+    "entities": []
+  },
+  {
+    "text": "Allograft function improved rapidly and returned to baseline after stopping the drug .",
+    "entities": []
+  },
+  {
+    "text": "Liver disease caused by propylthiouracil .",
+    "entities": [
+      {
+        "entity": "Liver disease",
+        "type": "Disease"
+      },
+      {
+        "entity": "propylthiouracil",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This report presents the clinical , laboratory , and light and electron microscopic observations on a patient with chronic active ( aggressive ) hepatitis caused by the administration of propylthiouracil .",
+    "entities": [
+      {
+        "entity": "chronic active ( aggressive ) hepatitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "propylthiouracil",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "This is an addition to the list of drugs that must be considered in the evaluation of chronic liver disease .",
+    "entities": [
+      {
+        "entity": "liver disease",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Withdrawal - emergent rabbit syndrome during dose reduction of risperidone .",
+    "entities": [
+      {
+        "entity": "Withdrawal - emergent rabbit syndrome",
+        "type": "Disease"
+      },
+      {
+        "entity": "risperidone",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Rabbit syndrome ( RS ) is a rare extrapyramidal side effect caused by prolonged neuroleptic medication .",
+    "entities": [
+      {
+        "entity": "Rabbit syndrome",
+        "type": "Disease"
+      },
+      {
+        "entity": "RS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Here we present a case of withdrawal - emergent RS , which is the first of its kind to be reported .",
+    "entities": [
+      {
+        "entity": "withdrawal - emergent RS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The patient developed RS during dose reduction of risperidone .",
+    "entities": [
+      {
+        "entity": "RS",
+        "type": "Disease"
+      },
+      {
+        "entity": "risperidone",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The symptom was treated successfully with trihexyphenidyl anticholinergic therapy .",
+    "entities": [
+      {
+        "entity": "trihexyphenidyl",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The underlying mechanism of withdrawal - emergent RS in the present case may have been related to the pharmacological profile of risperidone , a serotonin - dopamine antagonist , suggesting the pathophysiologic influence of the serotonin system in the development of RS .",
+    "entities": [
+      {
+        "entity": "withdrawal - emergent RS",
+        "type": "Disease"
+      },
+      {
+        "entity": "risperidone",
+        "type": "Chemical"
+      },
+      {
+        "entity": "serotonin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "dopamine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "serotonin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "RS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Pharmacokinetic / pharmacodynamic assessment of the effects of E4031 , cisapride , terfenadine and terodiline on monophasic action potential duration in dog .",
+    "entities": [
+      {
+        "entity": "E4031",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisapride",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terfenadine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terodiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "1 .",
+    "entities": []
+  },
+  {
+    "text": "Torsades de pointes ( TDP ) is a potentially fatal ventricular tachycardia associated with increases in QT interval and monophasic action potential duration ( MAPD ) .",
+    "entities": [
+      {
+        "entity": "Torsades de pointes",
+        "type": "Disease"
+      },
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      },
+      {
+        "entity": "ventricular tachycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "TDP is a side - effect that has led to withdrawal of several drugs from the market ( e . g . terfenadine and terodiline ) .",
+    "entities": [
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      },
+      {
+        "entity": "terfenadine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terodiline",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "2 .",
+    "entities": []
+  },
+  {
+    "text": "The potential of compounds to cause TDP was evaluated by monitoring their effects on MAPD in dog .",
+    "entities": [
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Four compounds known to increase QT interval and cause TDP were investigated : terfenadine , terodiline , cisapride and E4031 .",
+    "entities": [
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      },
+      {
+        "entity": "terfenadine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terodiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisapride",
+        "type": "Chemical"
+      },
+      {
+        "entity": "E4031",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "On the basis that only free drug in the systemic circulation will elicit a pharmacological response target , free concentrations in plasma were selected to mimic the free drug exposures in man .",
+    "entities": []
+  },
+  {
+    "text": "Infusion regimens were designed that rapidly achieved and maintained target - free concentrations of these drugs in plasma and data on the relationship between free concentration and changes in MAPD were obtained for these compounds .",
+    "entities": []
+  },
+  {
+    "text": "3 .",
+    "entities": []
+  },
+  {
+    "text": "These data indicate that the free ED50 in plasma for terfenadine ( 1 . 9 nM ) , terodiline ( 76 nM ) , cisapride ( 11 nM ) and E4031 ( 1 . 9 nM ) closely correlate with the free concentration in man causing QT effects .",
+    "entities": [
+      {
+        "entity": "terfenadine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terodiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisapride",
+        "type": "Chemical"
+      },
+      {
+        "entity": "E4031",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "For compounds that have shown TDP in the clinic ( terfenadine , terodiline , cisapride ) there is little differentiation between the dog ED50 and the efficacious free plasma concentrations in man ( < 10 - fold ) reflecting their limited safety margins .",
+    "entities": [
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      },
+      {
+        "entity": "terfenadine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "terodiline",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisapride",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "These data underline the need to maximize the therapeutic ratio with respect to TDP in potential development candidates and the importance of using free drug concentrations in pharmacokinetic / pharmacodynamic studies .",
+    "entities": [
+      {
+        "entity": "TDP",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Bladder retention of urine as a result of continuous intravenous infusion of fentanyl : 2 case reports .",
+    "entities": [
+      {
+        "entity": "retention of urine",
+        "type": "Disease"
+      },
+      {
+        "entity": "fentanyl",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Sedation has been commonly used in the neonate to decrease the stress and pain from the noxious stimuli and invasive procedures in the neonatal intensive care unit , as well as to facilitate synchrony between ventilator and spontaneous breaths .",
+    "entities": [
+      {
+        "entity": "pain",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Fentanyl , an opioid analgesic , is frequently used in the neonatal intensive care unit setting for these very purposes .",
+    "entities": [
+      {
+        "entity": "Fentanyl",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Various reported side effects of fentanyl administration include chest wall rigidity , hypotension , respiratory depression , and bradycardia .",
+    "entities": [
+      {
+        "entity": "fentanyl",
+        "type": "Chemical"
+      },
+      {
+        "entity": "chest wall rigidity",
+        "type": "Disease"
+      },
+      {
+        "entity": "hypotension",
+        "type": "Disease"
+      },
+      {
+        "entity": "respiratory depression",
+        "type": "Disease"
+      },
+      {
+        "entity": "bradycardia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Here , 2 cases of urinary bladder retention leading to renal pelvocalyceal dilatation mimicking hydronephrosis as a result of continuous infusion of fentanyl are reported .",
+    "entities": [
+      {
+        "entity": "urinary bladder retention",
+        "type": "Disease"
+      },
+      {
+        "entity": "hydronephrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "fentanyl",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Fatal myeloencephalopathy due to accidental intrathecal vincristin administration : a report of two cases .",
+    "entities": [
+      {
+        "entity": "myeloencephalopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "vincristin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "We report on two fatal cases of accidental intrathecal vincristine instillation in a 5 - year old girl with recurrent acute lymphoblastic leucemia and a 57 - year old man with lymphoblastic lymphoma .",
+    "entities": [
+      {
+        "entity": "vincristine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "acute lymphoblastic leucemia",
+        "type": "Disease"
+      },
+      {
+        "entity": "lymphoblastic lymphoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The girl died seven days , the man four weeks after intrathecal injection of vincristine .",
+    "entities": [
+      {
+        "entity": "vincristine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Clinically , the onset was characterized by the signs of opistothonus , sensory and motor dysfunction and ascending paralysis .",
+    "entities": [
+      {
+        "entity": "opistothonus , sensory and motor dysfunction",
+        "type": "Disease"
+      },
+      {
+        "entity": "paralysis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Histological and immunohistochemical investigations ( HE - LFB , CD - 68 , Neurofilament ) revealed degeneration of myelin and axons as well as pseudocystic transformation in areas exposed to vincristine , accompanied by secondary changes with numerous prominent macrophages .",
+    "entities": [
+      {
+        "entity": "degeneration of myelin and axons",
+        "type": "Disease"
+      },
+      {
+        "entity": "pseudocystic transformation",
+        "type": "Disease"
+      },
+      {
+        "entity": "vincristine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The clinical course and histopathological results of the two cases are presented .",
+    "entities": []
+  },
+  {
+    "text": "A review of all reported cases in the literature is given .",
+    "entities": []
+  },
+  {
+    "text": "A better controlled regimen for administering vincristine and intrathecal chemotherapy is recommended .",
+    "entities": [
+      {
+        "entity": "vincristine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Palpebral twitching in a depressed adolescent on citalopram .",
+    "entities": [
+      {
+        "entity": "Palpebral twitching",
+        "type": "Disease"
+      },
+      {
+        "entity": "depressed",
+        "type": "Disease"
+      },
+      {
+        "entity": "citalopram",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Current estimates suggest that between 0 . 4 % and 8 . 3 % of children and adolescents are affected by major depression .",
+    "entities": [
+      {
+        "entity": "major depression",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "We report a favorable response to treatment with citalopram by a 15 - year - old boy with major depression who exhibited palpebral twitching during his first 2 weeks of treatment .",
+    "entities": [
+      {
+        "entity": "citalopram",
+        "type": "Chemical"
+      },
+      {
+        "entity": "major depression",
+        "type": "Disease"
+      },
+      {
+        "entity": "palpebral twitching",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "This may have been a side effect of citalopram as it remitted with redistribution of doses .",
+    "entities": [
+      {
+        "entity": "citalopram",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The 3 - week sulphasalazine syndrome strikes again .",
+    "entities": [
+      {
+        "entity": "sulphasalazine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "A 34 - year - old lady developed a constellation of dermatitis , fever , lymphadenopathy and hepatitis , beginning on the 17th day of a course of oral sulphasalazine for sero - negative rheumatoid arthritis .",
+    "entities": [
+      {
+        "entity": "dermatitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "fever",
+        "type": "Disease"
+      },
+      {
+        "entity": "lymphadenopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "hepatitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "sulphasalazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "rheumatoid arthritis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Cervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant drug - induced hepatitis , associated with the presence of anti - nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by multi - organ failure and sepsis , supervened .",
+    "entities": [
+      {
+        "entity": "lymphadenitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "adverse drug reaction",
+        "type": "Disease"
+      },
+      {
+        "entity": "drug - induced hepatitis",
+        "type": "Disease"
+      },
+      {
+        "entity": "autoimmunity",
+        "type": "Disease"
+      },
+      {
+        "entity": "multi - organ failure",
+        "type": "Disease"
+      },
+      {
+        "entity": "sepsis",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "She subsequently died some 5 weeks after the commencement of her drug therapy . Post - mortem examination showed evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo - interstitial nephritis and extensive bone marrow necrosis , with no evidence of malignancy .",
+    "entities": [
+      {
+        "entity": "massive hepatocellular necrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "myocarditis",
+        "type": "Disease"
+      },
+      {
+        "entity": "nephritis",
+        "type": "Disease"
+      },
+      {
+        "entity": "bone marrow necrosis",
+        "type": "Disease"
+      },
+      {
+        "entity": "malignancy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "It is thought that the clinico - pathological features and chronology of this case bore the hallmarks of the so - called \" 3 - week sulphasalazine syndrome \" , a rare , but often fatal , immunoallergic reaction to sulphasalazine .",
+    "entities": [
+      {
+        "entity": "sulphasalazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "sulphasalazine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Intravenous administration of prochlorperazine by 15 - minute infusion versus 2 - minute bolus does not affect the incidence of akathisia : a prospective , randomized , controlled trial .",
+    "entities": [
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "STUDY OBJECTIVE : We sought to compare the rate of akathisia after administration of intravenous prochlorperazine as a 2 - minute bolus or 15 - minute infusion .",
+    "entities": [
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      },
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : We conducted a prospective , randomized , double - blind study in the emergency department of a central - city teaching hospital .",
+    "entities": []
+  },
+  {
+    "text": "Patients aged 18 years or older treated with prochlorperazine for headache , nausea , or vomiting were eligible for inclusion .",
+    "entities": [
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "headache",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      },
+      {
+        "entity": "vomiting",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Study participants were randomized to receive 10 mg of prochlorperazine administered intravenously by means of 2 - minute push ( bolus group ) or 10 mg diluted in 50 mL of normal saline solution administered by means of intravenous infusion during a 15 - minute period ( infusion group ) .",
+    "entities": [
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The main outcome was the number of study participants experiencing akathisia within 60 minutes of administration .",
+    "entities": [
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Akathisia was defined as either a spontaneous report of restlessness or agitation or a change of 2 or more in the patient - reported akathisia rating scale and a change of at least 1 in the investigator - observed akathisia rating scale .",
+    "entities": [
+      {
+        "entity": "agitation",
+        "type": "Disease"
+      },
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      },
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The intensity of headache and nausea was measured with a 100 - mm visual analog scale .",
+    "entities": [
+      {
+        "entity": "headache",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "RESULTS : One hundred patients were enrolled .",
+    "entities": []
+  },
+  {
+    "text": "One study participant was excluded after protocol violation .",
+    "entities": []
+  },
+  {
+    "text": "Seventy - three percent ( 73 / 99 ) of the study participants were treated for headache and 70 % ( 70 / 99 ) for nausea .",
+    "entities": [
+      {
+        "entity": "headache",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "In the bolus group , 26 . 0 % ( 13 / 50 ) had akathisia compared with 32 . 7 % ( 16 / 49 ) in the infusion group ( Delta = - 6 . 7 % ; 95 % confidence interval [ CI ] - 24 . 6 % to 11 . 2 % ) .",
+    "entities": [
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The difference between the bolus and infusion groups in the percentage of participants who saw a 50 % reduction in their headache intensity within 30 minutes was 11 . 8 % ( 95 % CI - 9 . 6 % to 33 . 3 % ) .",
+    "entities": [
+      {
+        "entity": "headache",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "The difference in the percentage of patients with a 50 % reduction in their nausea was 12 . 6 % ( 95 % CI - 4 . 6 % to 29 . 8 % ) .",
+    "entities": [
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION : A 50 % reduction in the incidence of akathisia when prochlorperazine was administered by means of 15 - minute intravenous infusion versus a 2 - minute intravenous push was not detected .",
+    "entities": [
+      {
+        "entity": "akathisia",
+        "type": "Disease"
+      },
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "The efficacy of prochlorperazine in the treatment of headache and nausea likewise did not appear to be affected by the rate of administration , although no formal statistical comparisons were made .",
+    "entities": [
+      {
+        "entity": "prochlorperazine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "headache",
+        "type": "Disease"
+      },
+      {
+        "entity": "nausea",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Combined antiretroviral therapy causes cardiomyopathy and elevates plasma lactate in transgenic AIDS mice .",
+    "entities": [
+      {
+        "entity": "cardiomyopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "lactate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AIDS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Highly active antiretroviral therapy ( HAART ) is implicated in cardiomyopathy ( CM ) and in elevated plasma lactate ( LA ) in AIDS through mechanisms of mitochondrial dysfunction .",
+    "entities": [
+      {
+        "entity": "cardiomyopathy",
+        "type": "Disease"
+      },
+      {
+        "entity": "CM",
+        "type": "Disease"
+      },
+      {
+        "entity": "lactate",
+        "type": "Chemical"
+      },
+      {
+        "entity": "LA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AIDS",
+        "type": "Disease"
+      },
+      {
+        "entity": "mitochondrial dysfunction",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "To determine mitochondrial events from HAART in vivo , 8 - week - old hemizygous transgenic AIDS mice ( NL4 - 3Delta gag / pol ; TG ) and wild - type FVB / n littermates were treated with the HAART combination of zidovudine , lamivudine , and indinavir or vehicle control for 10 days or 35 days .",
+    "entities": [
+      {
+        "entity": "AIDS",
+        "type": "Disease"
+      },
+      {
+        "entity": "zidovudine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "lamivudine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "indinavir",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "At termination of the experiments , mice underwent echocardiography , quantitation of abundance of molecular markers of CM ( ventricular mRNA encoding atrial natriuretic factor [ ANF ] and sarcoplasmic calcium ATPase [ SERCA2 ] ) , and determination of plasma LA .",
+    "entities": [
+      {
+        "entity": "CM",
+        "type": "Disease"
+      },
+      {
+        "entity": "calcium",
+        "type": "Chemical"
+      },
+      {
+        "entity": "LA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Myocardial histologic features were analyzed semiquantitatively and results were confirmed by transmission electron microscopy .",
+    "entities": []
+  },
+  {
+    "text": "After 35 days in the TG + HAART cohort , left ventricular mass increased 160 % by echocardiography .",
+    "entities": []
+  },
+  {
+    "text": "Molecularly , ANF mRNA increased 250 % and SERCA2 mRNA decreased 57 % .",
+    "entities": []
+  },
+  {
+    "text": "Biochemically , LA was elevated ( 8 . 5 + / - 2 . 0 mM ) .",
+    "entities": [
+      {
+        "entity": "LA",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Pathologically , granular cytoplasmic changes were found in cardiac myocytes , indicating enlarged , damaged mitochondria .",
+    "entities": []
+  },
+  {
+    "text": "Findings were confirmed ultrastructurally .",
+    "entities": []
+  },
+  {
+    "text": "No changes were found in other cohorts .",
+    "entities": []
+  },
+  {
+    "text": "After 10 days , only ANF was elevated , and only in the TG + HAART cohort .",
+    "entities": []
+  },
+  {
+    "text": "Results show that cumulative HAART caused mitochondrial CM with elevated LA in AIDS transgenic mice .",
+    "entities": [
+      {
+        "entity": "CM",
+        "type": "Disease"
+      },
+      {
+        "entity": "LA",
+        "type": "Chemical"
+      },
+      {
+        "entity": "AIDS",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "A Phase II trial of cisplatin plus WR - 2721 ( amifostine ) for metastatic breast carcinoma : an Eastern Cooperative Oncology Group Study ( E8188 ) .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "WR - 2721",
+        "type": "Chemical"
+      },
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "breast carcinoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "BACKGROUND : Cisplatin has minimal antitumor activity when used as second - or third - line treatment of metastatic breast carcinoma .",
+    "entities": [
+      {
+        "entity": "Cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "breast carcinoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Older reports suggest an objective response rate of 8 % when 60 - 120 mg / m2 of cisplatin is administered every 3 - 4 weeks .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Although a dose - response effect has been observed with cisplatin , the dose - limiting toxicities associated with cisplatin ( e . g . , nephrotoxicity , ototoxicity , and neurotoxicity ) have limited its use as a treatment for breast carcinoma .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "toxicities",
+        "type": "Disease"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nephrotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "ototoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "neurotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "breast carcinoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "WR - 2721 or amifostine initially was developed to protect military personnel in the event of nuclear war .",
+    "entities": [
+      {
+        "entity": "WR - 2721",
+        "type": "Chemical"
+      },
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Amifostine subsequently was shown to protect normal tissues from the toxic effects of alkylating agents and cisplatin without decreasing the antitumor effect of the chemotherapy .",
+    "entities": [
+      {
+        "entity": "Amifostine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "alkylating agents",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Early trials of cisplatin and amifostine also suggested that the incidence and severity of cisplatin - induced nephrotoxicity , ototoxicity , and neuropathy were reduced .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "nephrotoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "ototoxicity",
+        "type": "Disease"
+      },
+      {
+        "entity": "neuropathy",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "METHODS : A Phase II study of the combination of cisplatin plus amifostine was conducted in patients with progressive metastatic breast carcinoma who had received one , but not more than one , chemotherapy regimen for metastatic disease .",
+    "entities": [
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      },
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "breast carcinoma",
+        "type": "Disease"
+      }
+    ]
+  },
+  {
+    "text": "Patients received amifostine , 910 mg / m2 intravenously over 15 minutes .",
+    "entities": [
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "After completion of the amifostine infusion , cisplatin 120 mg / m2 was administered over 30 minutes .",
+    "entities": [
+      {
+        "entity": "amifostine",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Intravenous hydration and mannitol was administered before and after cisplatin .",
+    "entities": [
+      {
+        "entity": "mannitol",
+        "type": "Chemical"
+      },
+      {
+        "entity": "cisplatin",
+        "type": "Chemical"
+      }
+    ]
+  },
+  {
+    "text": "Treatment was administered every 3 weeks until disease progression .",
+    "entities": []
+  },
+  {
+    "text": "RESULTS : Forty - four patients were enrolled in the study of which 7 ( 16 % ) were ineligible .",
+    "entities": []
+  },
+  {
+    "text": "A median of 2 cycles of therapy was administered to the 37 eligible patients .",
+    "entities": []
+  },
+  {
+    "text": "Six partial responses were observed for an overall response rate of 16 % .",
+    "entities": []
+  },
+  {
+    "text": "Most patients ( 57 % ) stopped treatment because of disease progression .",
+    "entities": []
+  }
+]
