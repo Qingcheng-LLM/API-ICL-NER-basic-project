@@ -1,6 +1,6 @@
 
 ## 🚀项目简介:
-本实验旨在通过调用大语言模型的 API，实现基于上下文学习（In-Context Learning, ICL）的命名实体识别（NER）任务。通过本项目可以熟悉 Prompt 模板的设计与上下文示例构造；基于少样本学习的 NER 任务的实现；不同提示策略下大模型 NER 性能的评估与分析。项目大致包含以下内容：<br>  
+本实验旨在通过调用大语言模型的 API，实现基于上下文学习（In-Context Learning, ICL）的命名实体识别（NER）任务。通过本项目可以熟悉 Prompt 模板的设计与上下文示例构造；基于少样本学习的 NER 任务的实现；不同提示策略下大模型 NER 性能的评估与分析。项目大致包含以下内容：<br>
  1.数据格式转换<br>
  2.API接口配置<br>
  3.ICL与NER任务的实现<br>
@@ -16,7 +16,7 @@
 ## 📊 模型API来源： 
 
  1.项目所用模型根目录来自base_url = "https://api.openai.com/v1"<br>  
- 2.如需复现，可选择https://openrouter.ai/settings/credits网页购买API-KEY，在项目 api_wrapper.py 脚本的api_key处填入密钥，即可运行此项目<br>  
+ 2.如需复现，可选择https://openrouter.ai/settings/credits 网页购买API-KEY，在项目 api_wrapper.py 脚本的api_key处填入密钥，即可运行此项目<br>  
 
 ## 📊 各模型各样本性能参数指标：
 本实验对一种模型对应的一个样本类型选取500条样本进行推理，计算各种组合的参数指标，共合计推理4500条样本，用时约7小时，性能参数指标如下：<br>  
