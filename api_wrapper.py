@@ -1,8 +1,5 @@
 
 from openai import OpenAI
-# from typing import Optional
-# from dashscope import Generation
-
 
 def call_model(prompt, model):#给大模型输入提示，返回回复内容 
 

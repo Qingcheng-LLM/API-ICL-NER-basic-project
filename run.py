@@ -71,8 +71,7 @@ def run(data_file ,prompt_file ,output_file ,model_name: str = "gpt-4o",sleep_se
                 "raw_output": raw_output,       #大模型的原始回复
                 "parsed_output": parsed,        #解析后的回复
                 "pred_entities": pred_entities, #预测的实体列表
-            }
-        )
+            })
         if (i + 1) % 20 == 0:#每处理20条样本，打印一次进度
             print(f"已完成 {i+1} 条样本")
         time.sleep(sleep_sec)#防止请求过快，进行短暂休眠
